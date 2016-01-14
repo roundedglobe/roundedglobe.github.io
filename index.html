@@ -6,16 +6,12 @@ title: Rounded Bloge
 <section id="pagelist">
 	<ul id="pages">
 		{% for post in paginator.posts %}
-		{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-		{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
-		{% if posttime < nowunix %}
 			<li>
 				<article>
 					{% include post_heading.html %}
 					{% include byline.html %}
 				</article>
 			</li>
-		{% endif %}
 		{% endfor %}
 	</ul>
 </section>
