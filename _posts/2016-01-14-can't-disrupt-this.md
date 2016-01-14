@@ -1,7 +1,7 @@
 ---
 published: true
 author: jschmitt
-image: schmitt_header.jpg
+image: schmitt_header_b.jpg
 description: Disrupting the huge profits of academic publishers requires new 'basement market' strategies.
 ---
 
@@ -80,4 +80,4 @@ Nosek is optimistic about the evolution of technology in open science and says, 
 Time will tell if open access will be the needed disruption to allow the academic environment to right itself or if a new market emerges from startup incubators like the Center for Open Science. Regardless of how the future vision is realized, most in the academic community hope that the new iteration of scholarly articles and publishing will do more good toward humankind than that of a hefty profit margin.
 
 
-Image header credit: [ejbSF](https://www.flickr.com/photos/ejbsf/8426493938/); creative commons license.
+Image header credit: [Alan Levine](https://commons.wikimedia.org/wiki/File:Book_burning_%283%29.jpg); creative commons license.
