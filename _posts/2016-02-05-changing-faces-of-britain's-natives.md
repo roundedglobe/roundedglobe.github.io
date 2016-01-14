@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 author: sjcook
 image: cook_header.jpg
 description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric scholarship.
