@@ -5,7 +5,7 @@ image: zeevveez_header.jpg
 description: A reflection on the humanities from the windows of the Hebrew University of Jerusalem.
 ---
 
-_Guy Stroumsa has dedicated many years to the study of comparative religion. A conference in Jerusalem was held in his honour early in January 2016. This post offers an abridged version of Stroumsa's closing remarks_:
+_Welcome to the Rounded Globe blog! Our first ever post is an abridged version of Guy Stroumsa's closing remarks at a conference held in Jerusalem earlier this month (January 2016). A student of comparative religion, Professor Stroumsa talked on the duty of scholarly subsversion._
 
 For me, a _révolutionnaire manqué_, the comparative study of religions and their cohort of dreams of transformations, of patterns of mutations, both within societies and inside the self, has always represented a deeply subversive activity. I wish to offer here a midrashic reflection of sorts on subversion as an intellectual and moral duty: that of refusing to lie on the Procrustean beds prepared for us.
 
