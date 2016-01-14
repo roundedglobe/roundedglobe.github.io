@@ -1,0 +1,48 @@
+		<div id="backandforth">
+			{% if page.next.url %}
+			<!--all is well, link the next article-->
+			<a id="back" href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}">
+			<div class="bg" style="background: url({{ site.baseurl }}{{ site.imagedir }}{{ page.next.image }}); background-size: cover; background-position: center center; background-repeat: no-repeat;">
+			</div>
+			<div class="backforthtitle">{{ page.next.title }}</div>
+			<div class="backforthlabel">&#x276C;</div>
+			{% else %}
+				{% if page.previous.url %}
+					<!--oh no, there are no more articles, link the home page-->
+					<a id="back" href="{{ site.baseurl }}/" title="Home">
+					<div class="bg" style="background: url({{ site.baseurl }}/images/emblem.png); background-size: contain; background-position: center center; background-repeat: no-repeat; background-color: #0099ab;">
+					</div>
+				{% else %}
+				<!--we're on the home page-->
+				<a id="back" href="{{ site.baseurl }}{{ paginator.posts.last.url }}" title="{{ paginator.posts.last.title }}">
+				<div class="bg" style="background: url({{ site.baseurl }}{{ site.imagedir }}{{ paginator.posts.last.image }}); background-size: cover; background-position: center center; background-repeat: no-repeat;">
+				</div>
+				<div class="backforthtitle">{{ paginator.posts.last.title }}</div>
+				<div class="backforthlabel">&#x276C;</div>
+				{% endif %}
+			{% endif %}
+			</a>
+			{% if page.previous.url %}
+			<!--all is well, link the previous article-->
+			<a id="forth" href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">
+			<div class="bg" style="background: url({{ site.baseurl }}{{ site.imagedir }}{{ page.previous.image }}); background-size: cover; background-position: center center; background-repeat: no-repeat;">
+			</div>
+			<div class="backforthtitle">{{ page.previous.title }}</div>
+			<div class="backforthlabel">&#x276D;</div>
+			{% else %}
+				{% if page.next.url %}
+					<!--oh no, there are no more articles, link the home page-->
+					<a id="forth" href="{{ site.baseurl }}/" title="Home">
+					<div class="bg" style="background: url({{ site.baseurl }}/images/emblem.png); background-size: contain; background-position: center center; background-repeat: no-repeat; background-color: #0099ab;">
+					</div>
+				{% else %}
+				<!--we're on the home page-->
+				<a id="forth" href="{{ site.baseurl }}{{ paginator.posts.first.url }}" title="{{ paginator.posts.first.title }}">
+				<div class="bg" style="background: url({{ site.baseurl }}{{ site.imagedir }}{{ paginator.posts.first.image }}); background-size: cover; background-position: center center; background-repeat: no-repeat;">
+				</div>
+				<div class="backforthtitle">{{ paginator.posts.first.title }}</div>
+				<div class="backforthlabel">&#x276D;</div>
+				{% endif %}
+			{% endif %}
+			</a>
+		</div>

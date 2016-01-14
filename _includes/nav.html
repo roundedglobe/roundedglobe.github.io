@@ -1,0 +1,15 @@
+<nav>
+	<ul>
+		{% for link in site.links %}
+			{% unless page.layout == 'default' and link[1].url == '/' %}
+			{% if link[0] == "Rounded Globe" %}
+			<li id="rglink">
+			{% else %}
+			<li>
+			{% endif %}
+				<a href="{{ link[1].url }}"><img src="{{ site.baseurl }}{{ site.imagedir }}{{ link[1].image }}" title="{{ link[0] }}" /></a>
+			</li>
+			{% endunless %}
+		{% endfor %}
+	</ul>
+</nav>

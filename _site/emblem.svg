@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ab004c"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.69279145"
+     inkscape:cx="624.38713"
+     inkscape:cy="619.7671"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1066"
+     inkscape:window-x="0"
+     inkscape:window-y="14"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#aaaaaa;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="800"
+       height="800"
+       x="12.475254"
+       y="88.900124"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/drew/Documents/ludic_linux/images/emblem.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g4290"
+       transform="matrix(1.7449608,0,0,1.7449608,-182.0418,-163.63235)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4162"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.36567,388.05662 q -4.86,0 -9.18,-1.8 -4.14,-1.98 -8.1,-4.32 -3.96,-2.34 -7.74,-4.14 -3.6,-1.98 -7.02,-1.98 -1.44,0 -2.88,0.36 -1.26,0.36 -2.52,1.62 -1.26,1.08 -2.34,3.42 -1.08,2.34 -2.16,6.3 l -16.38,-4.5 q 0.72,-4.5 2.52,-9.36 1.8,-5.04 4.68,-9.18 3.06,-4.14 7.56,-6.84 4.5,-2.88 10.8,-2.88 4.68,0 8.82,1.98 4.32,1.8 8.28,4.14 3.96,2.34 7.56,4.32 3.6,1.8 7.2,1.8 1.44,0 2.7,-0.36 1.44,-0.36 2.7,-1.62 1.26,-1.26 2.34,-3.6 1.26,-2.34 2.34,-6.3 l 16.38,4.5 q -0.9,4.5 -2.7,9.54 -1.62,4.86 -4.68,9.18 -3.06,4.14 -7.56,7.02 -4.32,2.7 -10.62,2.7 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4164"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 297.76567,448.53662 -23.04,0 50.4,-155.52 22.68,0 -50.04,155.52 z" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 499.85114,428.513 a 75.607739,75.607739 0 0 1 -82.39657,16.38969 75.607739,75.607739 0 0 1 -46.67391,-69.85244 75.607739,75.607739 0 0 1 46.67391,-69.85244 75.607739,75.607739 0 0 1 82.39657,16.3897 l -53.46275,53.46274 z"
+         id="path4158"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

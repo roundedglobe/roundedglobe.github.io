@@ -1,0 +1,16 @@
+{% if page.layout == 'post' %}
+	{% assign post = page %}
+	{% capture link %}{{ site.baseurl }}/{% endcapture %}
+{% else %}
+	{% capture link %}{{ site.baseurl }}{{ post.url }}{% endcapture %}
+{% endif %}
+<a href="{{ link }}" class="headingcont">
+	<div class="featureimg" style="background-image: url({{ site.baseurl }}{{ site.imagedir }}{{ post.image }}); background-position: center center;">
+	</div>
+	<div class="titles">
+		<h3>{{ post.title }}</h3>
+		{% if post.description %}
+		<div class="destext">{{ post.description | markdownify }}</div>
+		{% endif %}
+	</div>
+</a>

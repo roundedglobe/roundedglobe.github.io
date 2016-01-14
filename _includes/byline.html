@@ -1,0 +1,16 @@
+{% if site.authors[post.author] %}
+	{% assign name = site.authors[post.author].name %}
+	{% if name == "Rounded Globe" %}
+		{% assign link = site.authors[post.author].link %} 
+	{% else %}
+		{% assign link = "#bio" %}
+	{% endif %}
+{% else %}
+	{% assign name = post.author %}
+	{% capture link %}{{ site.baseurl }}/{% endcapture %}
+{% endif %}
+{% if page.id or name == "Rounded Globe" %}
+<div class="byline">by <a href="{{ link }}">{{ name }}</a> on {{ post.date | date: '%B %d, %Y' }}</div>
+{% else %}
+<div class="byline">by <strong>{{ name }}</strong> on {{ post.date | date: '%B %d, %Y' }}</div>
+{% endif %}
