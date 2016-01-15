@@ -36,6 +36,9 @@ links:
     Atom Feed:
         url: /atom.xml 
         image: atom_icon.png
+    Patreon:
+        url: https://www.patreon.com/roundedglobe?ty=h 
+        image: patreon_icon.png
     Rounded Globe:
         url: http://roundedglobe.com/
         image: rg_icon.png
