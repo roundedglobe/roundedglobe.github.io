@@ -5,7 +5,6 @@ image: cook_header.jpg
 description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric scholarship.
 ---
 
-
 Late-Victorian histories of the English began in the woods of Schleswig, before the migration to the British Isles. But around 1900 historians decided that English history proper should begin with the foundation of the modern state in the fourteenth century. What came before was deemed not only barbarous but insufficiently documented. The story of ancient Britain, and of the peoples who settled it, was left to a motley crew of archaeologists, folklorists, philologists and, increasingly, writers of fiction.
 
 {% include img.html image="Cook1.jpg" caption="Picture from: [Our Island Story. A History of England for Boys and Girls](https://archive.org/details/ourislandstoryhi00marsuoft), by H.E. Marshall, illustration by A.S. Forrester (London, 1905)." %}
