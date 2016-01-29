@@ -1,9 +1,11 @@
 ---
-published: false
+published: true
 author: mm
 image: mm_header.jpg
 description: "British farming disappeared in the era when Stonehenge was built."
 ---
+_The first of a series of posts by Dr Mark McKerracher on the origins of agriculture. Subsequent posts will be published in this blog from time to time..._
+
 A relative of mine asked me how agriculture came about in the first place. It’s a fair enough question. We’re all so familiar with the concept of farming, that it’s hardly obvious how our distant ancestors moved from hunting and gathering to tilling the hateful earth. Indeed, I don’t (yet) have an answer to my relative’s question, but I thought I should start putting one together. And to avoid anything so strenuous as making a plan, I’ve decided to write these “Origins” in the order that things come to my attention, rather than the order in which they happened… not least because the chronology of early farming might prove to be a little tricky.
 
 Well, what better place to start than Britain itself, home to this blogger, and subject to a recent article in that venerable warhorse _Antiquity_ (Stevens & Fuller 2012). This article begins by claiming to rewrite the early history of Britain – no small claim! And as a bonus (for me), it’s written by two archaeobotanists, so how could I resist reviewing it?

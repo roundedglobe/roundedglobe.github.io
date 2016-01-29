@@ -66,12 +66,12 @@ authors:
             Website: http://yemachine.com/
     gstroumsa:
         name: Guy Stroumsa
-        bio: "Guy G. Stroumsa is Martin Buber Professor Emeritus of Comparative Religion, The Hebrew University of Jerusalem and Professor Emeritus of the Study of the Abrahamic Religions, and Emeritus Fellow of Lady Margaret Hall, University of Oxford.<br /><br />His recent publications include:<br /><br /><em><a href=\"http://www.press.uchicago.edu/ucp/books/book/chicago/E/bo5747718.html\">The End of Sacrifice: Religious Transformations of Late Antiquity</a></em> (Chicago, 2009; paperback 2012)<br /><em><a href=\"http://www.hup.harvard.edu/catalog.php?isbn=9780674048607\">A New Science: the Discovery of Religion in the Age of Reason</a></em> (Cambridge, Mass., 2010)<br /><em><a href=\"https://global.oup.com/academic/product/the-making-of-the-abrahamic-religions-in-late-antiquity-9780198738862?cc=il&lang=en\">The Making of the Abrahamic Religions in Late Antiquity</a></em> (Oxford, 2015)<br />He is the co-editor, with Adam Silverstein, of <em><a href=\"https://global.oup.com/academic/product/the-oxford-handbook-of-the-abrahamic-religions-9780199697762?cc=il&lang=en\">The Oxford Handbook of the Abrahamic Religions</a></em> (Oxford, 2015)."
+        bio: "Guy G. Stroumsa is Martin Buber Professor Emeritus of Comparative Religion, The Hebrew University of Jerusalem and Professor Emeritus of the Study of the Abrahamic Religions, and Emeritus Fellow of Lady Margaret Hall, University of Oxford.<br /><br />His recent publications include:<br /><br /><em><a href=\"http://www.press.uchicago.edu/ucp/books/book/chicago/E/bo5747718.html\">The End of Sacrifice: Religious Transformations of Late Antiquity</a></em> (Chicago, 2009; paperback 2012)<br /><em><a href=\"http://www.hup.harvard.edu/catalog.php?isbn=9780674048607\">A New Science: the Discovery of Religion in the Age of Reason</a></em> (Cambridge, Mass., 2010)<br /><em><a href=\"https://global.oup.com/academic/product/the-making-of-the-abrahamic-religions-in-late-antiquity-9780198738862?cc=il&lang=en\">The Making of the Abrahamic Religions in Late Antiquity</a></em> (Oxford, 2015)<br /><em>The Scriptural Universe of Early Christianity</em> (Cambridge, Mass.: Harvard University Press, forthcoming)<br />He is the co-editor, with Adam Silverstein, of <em><a href=\"https://global.oup.com/academic/product/the-oxford-handbook-of-the-abrahamic-religions-9780199697762?cc=il&lang=en\">The Oxford Handbook of the Abrahamic Religions</a></em> (Oxford, 2015)."
         links:
             Academia.edu: https://huji.academia.edu/guystroumsa
     jw:
         name: Judith Weingarten
-        bio: "Judith Weingarten studied Classical Archaeology at the University of Oxford and is a member of the British School of Athens. She has excavated for many years on Crete and on the Greek mainland and travelled extensively in the Middle East. She has lived and worked among the ruins of the three great Caravan Cities: Petra, Palmyra, and Baalbek. Whilst living within the grounds of the Temple of Bel in Palmyra she began to write her historical novel on [Zenobia, Queen of Palmyra]( http://www.amazon.com/The-Chronicle-Zenobia-Rebel-Queen/dp/1843862190), and the rebellion that she led against imperial Rome."
+        bio: "Judith Weingarten studied Classical Archaeology at the University of Oxford and is a member of the British School of Athens. She has excavated for many years on Crete and on the Greek mainland and travelled extensively in the Middle East. She has lived and worked among the ruins of the three great Caravan Cities: Petra, Palmyra, and Baalbek. Whilst living within the grounds of the Temple of Bel in Palmyra she began to write her historical novel on Zenobia, Queen of Palmyra and the rebellion that she led against imperial Rome (available in June)."
         links:
             Blog: judithweingarten.blogspot.com
             Academia.edu: https://bsa.academia.edu/judithweingarten
@@ -94,6 +94,13 @@ authors:
         links:
             Blog: https://farmingunearthed.wordpress.com/
             Academia.edu: https://independent.academia.edu/MarkMcKerracher
+    ms:
+        name: Michael E. Smith
+        bio: "Michael E. Smith is an archaeologist who works on Aztec sites and Teotihuacan. He is based at Arizona State University and does comparative and transdisciplinary research on cities, and also households, empires, and city-states. He views his discipline, archaeology, as a Comparative Historical Social Science. His publications include [_Aztec City-State Capitals_](http://www.upf.com/book.asp?id=SMITHS08), Florida, 2008; [_The Comparative Archaeology of Complex Societies_](http://www.cambridge.org/us/academic/subjects/archaeology/prehistory/comparative-archaeology-complex-societies), Cambridge, 2011; and [_At Home with the Aztecs_](https://www.routledge.com/products/9781138100749), London, 2016 (to be published this May)."
+        links:
+            Blog: https://publishingarchaeology.blogspot.com
+            Academia.edu: https://asu.academia.edu/MichaelESmith
+            Twitter: https://twitter.com/MichaelESmith
 
 # !! You don't need to change any of the configuration flags below !!
 #
