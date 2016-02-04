@@ -4,7 +4,7 @@
  <title>Rounded Globe</title>
  <link href="http://roundedglobe.github.io/atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/"/>
- <updated>2016-01-29T15:33:49+00:00</updated>
+ <updated>2016-02-04T19:33:42+00:00</updated>
  <id>http://roundedglobe.github.io</id>
  
  <author>
@@ -13,6 +13,56 @@
  
  </author>
 
+ 
+ <entry>
+   <title>The Command Line</title>
+   <link href="http://roundedglobe.github.io/the_command_line/"/>
+   <updated>2016-02-04T00:00:00+00:00</updated>
+   <id>http://roundedglobe.github.io/the_command_line</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Today Drew Holgate, co-founder of Rounded Globe, begins a series of occasional posts highlighting the significance of Linux, the free software movement, and other techy issues that the educated public should be aware of, but aren&amp;#39;t.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Don&amp;#39;t you have to use the command line?&amp;quot; or &amp;quot;Isn&amp;#39;t Linux a command line?&amp;quot; are concerns people often raise when thinking about switching to Linux.&lt;/p&gt;
+
+&lt;p&gt;And they tend to be mollified with something like &amp;quot;No, you never need to touch the command line. You can do everything you&amp;#39;d do on any other computer without ever seeing the command line&amp;quot;. Which is perfectly true. But we see the unspoken question in their eyes; &amp;quot;If you don&amp;#39;t have to, then why on earth &lt;em&gt;do&lt;/em&gt; you?&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;They don&amp;#39;t actually ask it because they&amp;#39;re afraid we&amp;#39;ll talk more about Linux.&lt;/p&gt;
+
+&lt;p&gt;And it&amp;#39;s understandable, to their eyes the command line looks archaic — it&amp;#39;s what people used in the 70s and we&amp;#39;ve got &lt;em&gt;graphics&lt;/em&gt; now — why would you use something so &lt;em&gt;crude&lt;/em&gt;?&lt;/p&gt;
+
+&lt;div class=&quot;illustration&quot;&gt;
+
+
+&lt;a href=&quot;/images/the_command_line.png&quot;&gt;&lt;img src=&quot;/images/the_command_line.png&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+    &lt;p&gt;Well it&amp;#39;s beautiful to &lt;em&gt;me&lt;/em&gt;.&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;When you are using a computer you are communicating with it; you are telling it what you want it to do and it is telling you the results of what you asked. The Linux command line is a verbal language for communicating with your computer. Linux commands are words in a language, each embodying one idea. Like words in any language, they can be arranged into sentences of any length and complexity.&lt;/p&gt;
+
+&lt;p&gt;Suppose, for some reason, I wanted an ordered, uppercase list of all the most common words in this document I&amp;#39;m writing now. In English that would be &amp;quot;Produce a list of the thirty most common words in this document with a frequency count, order it by frequency and then alphabetically, convert the words to uppercase and then email me the list&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;In the language of the Linux command line that would be:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;tr -d &amp;quot;\&amp;quot;,&amp;quot; &amp;lt; the_command_line.md | tr -cs &amp;quot;[:graph:]&amp;quot; &amp;quot;\n&amp;quot; | tr &amp;quot;[:lower:]&amp;quot; &amp;quot;[:upper:]&amp;quot; | awk &amp;#39;{h[$1]++}END{for (i in h){print i&amp;quot; (&amp;quot;h[i]&amp;quot;)&amp;quot;}}&amp;#39;| sort -nr -t$&amp;#39;(&amp;#39; -k2 -k1d | cat -n | head -n 30 | mailx -s &amp;quot;common words&amp;quot; uo.is.ou@gmail.com
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;A second later, &lt;a href=&quot;http://i.imgur.com/XCWUT0w.png&quot;&gt;the email arrives&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course there&amp;#39;s a command for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.&lt;/p&gt;
+
+&lt;p&gt;I could save the above command, perhaps calling it &amp;#39;count2email&amp;#39;, and then it becomes a word I can use — I have coined a new word in the language.&lt;/p&gt;
+
+&lt;p&gt;A graphical user interface only allows the user to perform the discrete set of tasks that the programmer has explicitly provided — an application can either do something (like emailing a list of all the commonly used words) or it can&amp;#39;t. The command line allows the user to tell the computer &lt;em&gt;exactly&lt;/em&gt; what to do. It is precise, expressive and lends itself particularly well to complex or repetitive tasks. If I wanted my computer to, every third Tuesday, make a list of the most common words in the file I have written to most recently, overlay those words on a randomly chosen image of a kitten from the internet and then post that image to my website, I could do that. I don&amp;#39;t know why I&amp;#39;d want to, but I could.&lt;/p&gt;
+
+&lt;p&gt;Of course there are certain tasks for which a graphical interface is better-suited. But for those where it&amp;#39;s not, using one is like trying to have a conversation with another human using only Pictionary.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s why some people use the command line. Not out of necessity, but out of choice.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg&quot;&gt;Header image&lt;/a&gt;: Ken Thompson and Dennis Ritchie, the inventors of &lt;a href=&quot;https://en.wikipedia.org/wiki/Unix&quot;&gt;Unix&lt;/a&gt;. CC BY-SA license. &lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Chaucer Goes To The Golden Horde</title>

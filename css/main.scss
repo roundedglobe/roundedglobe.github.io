@@ -393,6 +393,8 @@ code {
 	display: inline-block;
 	margin-left: 5em;
 	background-color: $code-col;
+	max-width: 85%;
+	overflow: auto;
 }
 .attribution {
 	margin-right: 40px;

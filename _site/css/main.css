@@ -292,7 +292,9 @@ code {
   padding: 1em;
   display: inline-block;
   margin-left: 5em;
-  background-color: #eee; }
+  background-color: #eee;
+  max-width: 85%;
+  overflow: auto; }
 
 .attribution {
   margin-right: 40px;
