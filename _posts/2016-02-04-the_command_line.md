@@ -9,7 +9,7 @@ author: drew
 
 "Don't you have to use the command line?" or "Isn't Linux a command line?" are concerns people often raise when thinking about switching to Linux.
 
-And they tend to be mollified with something like "No, you never need to touch the command line. You can do everything you'd do on any other computer without ever seeing the command line". Which is perfectly true. But we see the unspoken question in their eyes; "If you don't have to, then why on earth *do* you?".
+And they tend to be mollified with something like "No, you never need to touch the command line. You can do everything you'd do on any other computer without ever seeing the command line". Which is perfectly true. But we see the unspoken question in their eyes; "If you don't have to use it, then why on earth *do* you?".
 
 They don't actually ask it because they're afraid we'll talk more about Linux.
 
