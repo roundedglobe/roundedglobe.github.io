@@ -4,7 +4,7 @@
  <title>Rounded Globe</title>
  <link href="http://roundedglobe.github.io/atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/"/>
- <updated>2016-02-04T19:33:42+00:00</updated>
+ <updated>2016-02-04T19:39:59+00:00</updated>
  <id>http://roundedglobe.github.io</id>
  
  <author>
@@ -50,7 +50,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;A second later, &lt;a href=&quot;http://i.imgur.com/XCWUT0w.png&quot;&gt;the email arrives&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course there&amp;#39;s a command for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.&lt;/p&gt;
+&lt;p&gt;As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course &lt;a href=&quot;https://en.wikipedia.org/wiki/Man_page&quot;&gt;there&amp;#39;s a command&lt;/a&gt; for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.&lt;/p&gt;
 
 &lt;p&gt;I could save the above command, perhaps calling it &amp;#39;count2email&amp;#39;, and then it becomes a word I can use — I have coined a new word in the language.&lt;/p&gt;
 

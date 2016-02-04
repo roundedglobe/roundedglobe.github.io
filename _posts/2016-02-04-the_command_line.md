@@ -27,7 +27,7 @@ In the language of the Linux command line that would be:
 
 A second later, [the email arrives](http://i.imgur.com/XCWUT0w.png).
 
-As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course there's a command for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.
+As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course [there's a command](https://en.wikipedia.org/wiki/Man_page) for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.
 
 I could save the above command, perhaps calling it 'count2email', and then it becomes a word I can use — I have coined a new word in the language.
 
