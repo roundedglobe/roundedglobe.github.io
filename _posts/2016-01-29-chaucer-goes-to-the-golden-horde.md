@@ -26,7 +26,7 @@ Recently Michael Murrin has written a great book on _Trade and Romance_: how rom
 
 I’m fascinated by Chaucer’s trip of the imagination to Saray, and later adventures too of European romancers in the Mongol world. More to come on my own blog, [Amgalant](http://amgalant.com/).
 
-##Main works consulted:
+## Main works consulted:
 
 Virgil Ciocîltan, [_The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries_](http://www.brill.com/mongols-and-black-sea-trade-thirteenth-and-fourteenth-centuries), translated by Samuel Willcocks, Leiden, Brill, 2012.     
 Carmel Jordan, ‘Soviet Archeology and the Setting of the Squire’s Tale’, _The Chaucer Review_, volume 22, issue 2, 1987, pp. 128-9.    

@@ -7,7 +7,7 @@ description: Disrupting the huge profits of academic publishers requires new 'ba
 
 
 
-## Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business
+# # Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business
 
 Twenty years ago ([December 18, 1995](http://www.scribd.com/doc/292346391/Forbes-Elsevier-1995)), Forbes predicted academic publisher Elsevier’s relevancy and life in the digital age to be short lived. In an article entitled “The internet’s first victim,” journalist John Hayes highlights the technological imperative coming toward the academic publisher’s profit margin with the growing internet culture and said, “Cost-cutting librarians and computer-literate professors are bypassing academic journals — bad news for Elsevier.” After publication of the article, investors seemed to heed Hayes’s rationale for Elsevier’s impeding demise. Elsevier stock fell 7% in two days to $26 a share.
 
@@ -35,7 +35,7 @@ In addition to a general lack of pricing indexes, the conversation around the va
 
 ![](/images/Schmitt2.jpeg)
 
-##Disruption Doable?
+## Disruption Doable?
 
 It is precisely the prior lack of a pricing and value barometer that leads to the complexities associated with disrupting the main players in academic publishing. “Adam Smith’s invisible hand works to lower prices and increase productivity but it can only do so when valuation or pricing is known and the same thing is true for disruption. If you don’t know how to value something, you actually don’t have tiers of a market,” says Sundahl.
 
@@ -45,7 +45,7 @@ Should academic scholarship keep existing in a similar trajectory as in the past
 
 The prior is exactly what large entities like the Bill and Melinda Gates Foundation or perhaps even top tier research one (R1) universities can’t do. “They have to play the game the way the winners are already playing it. Incumbents almost always win under those conditions,” says Sundahl. And to further complicate matters, junior colleges and community colleges, which perhaps would represent fertile grounds to be served by a newer, “basement market” entrant, may be less likely to spearhead this new outlet themselves due increasing government constraints focused nearly exclusively on job placement and starting salaries in lieu of a research-based, theoretical curriculum.
 
-##Open Access Packs a Punch
+## Open Access Packs a Punch
 
 Driven by the lopsided power structure the move toward open access and the unrestricted access to academic information has been exponentially growing. Perhaps it is, itself, a “basement market” for leveling the academic publication environment and creating a market where respect and credibility can be fostered, grown and transitioned into the existing academic prestige, merit, and tenure conversations.
 
@@ -65,7 +65,7 @@ Although it appears open access has the ability to simultaneously diffuse academ
 
 >If you are no longer essential to researchers in the, ‘you have to publish in my journal in order to get tenure and promotion’ what do they replace that with? I think the smart publishing companies like Elsevier, like Springer, who are very smart in that regard, have been thinking about where they can go to be playing a role of continuing to be seen as essential by the research community once they are no longer playing the role of providing assessment.
 
-##Onward and Upward
+## Onward and Upward
 
 “In the US Congress we have been finally making [progress](http://news.sciencemag.org/policy/2015/07/senate-panel-approves-public-access-bill) with the Fair Access to Science and Technology Research (FASTR) bill. It moved through the committee it was referred to in the Senate and is poised to move out of the Senate and potentially be considered by the House and hopefully pass. Ten years ago, I would have said we didn’t have a chance to do a stand-alone bill,” says Joseph.
 

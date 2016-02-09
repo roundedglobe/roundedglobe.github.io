@@ -21,7 +21,7 @@ I see **_two major roadblocks_**:
 * Our data are not available; and, 
 * Our epistemology is inadequate, particularly in the areas of theory and argument.
 
-##(1) Our data are not available
+## (1) Our data are not available
 
 The “gray literature” of unpublished and poorly available contract archaeology reports is a vast sink of archaeological data. Some of it is reported in formats that can be used by other scholars, and some is not. Some is posted online, much is not. There is more contract archaeology going on around the world than grant-funded academic research, yet most of the results contribute little or nothing to building a systematic foundation of knowledge about the past. This needs to change. There are far too many academic archaeological research projects that are never adequately published, leaving important artifacts moldering in a dusty lab or analyzed data locked up in individual idiosyncratic data formats. And even archaeological data from projects that are published can be difficult to access; we need datafiles—not printed tables of numbers—and more excavation photographs—not the few that made it into the report.
 
@@ -29,7 +29,7 @@ This is getting uncomfortably personal now. My current project will be published
 
 The challenge here is to change the behavior of individuals (like me) and to promote institutional solutions that will make our data available. Even when data ARE available, they will often need cleaning and sorting and recoding if we are going to compare our data to social science data about the present (Smith 2010). Creating and using data archives is a big part of this challenge, and that is why [archives like tDAR](https://www.tdar.org/about/) are so important. But a change in the culture of archaeology may also be required. When an economic historian publishes a study that uses quantitative data, the datafiles are regularly posted and made available for others to use and reanalyze. Could anyone reanalyze my data that way? Not yet. We don’t have a culture within archaeology that promotes the easy sharing of data. A change in these norms would be a big improvement.
 
-##(2) Our epistemology is inadequate
+## (2) Our epistemology is inadequate
 
 Archaeology is a science, in the standard social-science conception of science as having these traits:
 
@@ -46,7 +46,7 @@ Although few archaeologists use the phrase “postmodern” these days, this ant
 
 Only research carried out with a scientific epistemology, making rigorous empirical arguments about data and about the past, serves to build a body of archaeological knowledge that is capable of generating reliable conclusions about past human societies (beyond descriptions of individual sites or finds). The prevalence of non-scientific epistemologies in archaeology (all the “post-“ approaches) makes it difficult to create this reliable knowledge. Yet for many of us, the goal of our work is to say something useful about past human societies. As in the case of the first roadblock—data availability—the promotion of a scientific epistemology will require a change in the culture of archaeology. If we want to contribute to a body of empirical evidence about human societies and their change over time, then we have our work cut out for us. If we fail to meet this "grand challenge," then it is hard to see how we can meet all the other grand challenges identified by Kintigh et al. (2014a, 2014b) and by the other bloggers participating in this event.
 
-##References
+## References
 
 6, Perri and Christine Bellamy. 2012. _Principles of Methodology: Research Design in Social Science_. Sage, New York.
 
