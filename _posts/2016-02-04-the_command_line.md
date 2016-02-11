@@ -5,7 +5,7 @@ description: How to make friends with a computer
 author: drew 
 ---
 
-*Today Drew Holgate, co-founder of Rounded Globe, begins a series of occasional posts highlighting the significance of Linux, the free software movement, and other techy issues that the educated public should be aware of, but aren't.*
+*Drew Holgate, co-founder of Rounded Globe, begins a series of occasional posts highlighting the significance of Linux, the free software movement, and other techy issues that the educated public should be aware of, but aren't.*
 
 "Don't you have to use the command line?" or "Isn't Linux a command line?" are concerns people often raise when thinking about switching to Linux.
 

@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 author: sjcook
 image: cook_header.jpg
 description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric scholarship.
 ---
+*Simon J. Cook, Rounded Globe author, shares some of his research into the history of British conceptions of prehistory and the genesis of Tolkien's hobbits.*
 
 Late-Victorian histories of the English began in the woods of Schleswig, before the migration to the British Isles. But around 1900 historians decided that English history proper should begin with the foundation of the modern state in the fourteenth century. What came before was deemed not only barbarous but insufficiently documented. The story of ancient Britain, and of the peoples who settled it, was left to a motley crew of archaeologists, folklorists, philologists and, increasingly, writers of fiction.
 
