@@ -30,4 +30,4 @@ Brück, J. (2000). “Settlement, landscape and social identity: the early-middl
 
 My thanks to Dr A. Bogaard for recommending this article.
 
-Image credit: 'Dispilio, Lake settlement, Kastoria', [Ελένη Δελή](https://www.flickr.com/photos/129350944@N06/). Creative commons license.
+Image credit: 'Butser Ancient Farm', [gordontour](https://www.flickr.com/photos/gordontour/). Creative commons license.
