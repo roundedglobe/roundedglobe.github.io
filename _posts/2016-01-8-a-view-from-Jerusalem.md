@@ -2,7 +2,7 @@
 published: true
 author: gstroumsa
 image: zeevveez_header.jpg
-description: A reflection on the humanities from the windows of the Hebrew University of Jerusalem.
+description: A reflection on the humanities from the windows of the Hebrew University of Jerusalem
 ---
 
 _Welcome to the Rounded Globe blog! Our first post is an abridged version of Prof. Guy Stroumsa's closing remarks at a conference held in Jerusalem earlier this month (January 2016). A scholar of comparative religion, Professor Stroumsa discussed the duty of scholarly subsversion. Speaking from the heart of a conflict, Stroumsa calls on intellectuals to step beyond aseptic seminar rooms into the wider world around them: a call to which we at Rounded Globe are deeply sympathetic._
