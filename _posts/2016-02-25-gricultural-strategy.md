@@ -2,7 +2,7 @@
 published: false
 author: mm
 image: mm2_header.jpg
-description: "Neolithic agriculture as a social offshoot"
+description: "The social roots of neolithic agriculture"
 ---
 _The second of a series of posts by Dr Mark McKerracher on the origins of agriculture._
 

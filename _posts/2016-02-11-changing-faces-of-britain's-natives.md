@@ -2,7 +2,7 @@
 published: true
 author: sjcook
 image: cook_header.jpg
-description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric scholarship.
+description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric scholarship
 ---
 *Simon J. Cook, Rounded Globe author, shares some of his research into the history of British conceptions of prehistory and the genesis of Tolkien's hobbits.*
 
