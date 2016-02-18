@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: jp
 image: jp_header.jpg
 description: "The late antique little ice age revisisted"
