@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: mm
 image: mm2_header.jpg
 description: "The social roots of neolithic agriculture"
@@ -26,8 +26,8 @@ MJM.
 
 References
 
-Brück, J. (2000). “Settlement, landscape and social identity: the early-middle Bronze Age transition in Wessex, Sussex and the Thames valley” Oxford Journal of Archaeology 19: pp.273-300.
-
-My thanks to Dr A. Bogaard for recommending this article.
+Brück, J. (2000). “Settlement, landscape and social identity: the early-middle Bronze Age transition in Wessex, Sussex and the Thames valley” Oxford Journal of Archaeology 19: pp.273-300. My thanks to Dr A. Bogaard for recommending this article.
 
 Image credit: 'Butser Ancient Farm', [gordontour](https://www.flickr.com/photos/gordontour/). Creative commons license.
+
+The first post in this series is [Origins of British Agriculture](http://roundedglobe.github.io/origins-of-british-agriculture/).
