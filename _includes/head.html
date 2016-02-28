@@ -5,20 +5,13 @@
 		<title>{{ page.title }}</title>
 		<link rel='alternate' type='application/atom+xml' title='Rounded Globe Blog Atom Feed' href='/atom.xml'>
 		<meta name="keywords" content="scholarly essays" />
-		<meta name="description" content="{{ page.description }}" />
-		<meta property="og:site_name" content="{{ site.name }}" />
-		<meta property="og:title" content="{{ page.title }}" />
-{% if page.index %}
-		<meta property="og:type" content="website" />
-{% else %}
-		<meta property="og:type" content="article" />
-{% endif %}
-		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-		<meta property="og:image" content="{{ site.url }}{{ site.imagedir }}{{ page.image }}" />
-		<meta property="og:description" content="{{ page.description }}" />
+		<meta name="description" content="Rounded Globe Blog" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" >
 		<link rel="shortcut icon" href="/images/favicon.png">
+		{% if page.image %}
+		<meta property="og:image" content="{{ site.url }}{{ site.imagedir }}{{ page.image }}" />
+		{% endif %}
 	</head>
 	<body>
 		<div id="leftcontainer">

@@ -1,8 +1,8 @@
 ---
 published: false
 title: "A Title of Some Sort"
-image: title_header.jpg
-description: A snappy little subtitle
+image: title_featured.jpg
+subtitle: A snappy little subtitle
 author: shortname 
 ---
 
