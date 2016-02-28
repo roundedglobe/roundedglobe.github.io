@@ -1,6 +1,6 @@
 <header>
 	{% include nav.html %}
-	{% unless page.image %}
+	{% if page.index %}
 		<h1 id="maintitle"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/emblem.png" />{{ page.title }} </a></h1>
-	{% endunless %}
+	{% endif %}
 </header>

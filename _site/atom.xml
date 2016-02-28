@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Rounded Globe</title>
+ <title>Rounded Bloge</title>
  <link href="http://roundedglobe.github.io/atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/"/>
- <updated>2016-02-04T19:53:12+00:00</updated>
+ <updated>2016-02-28T17:45:35+00:00</updated>
  <id>http://roundedglobe.github.io</id>
  
  <author>
@@ -15,19 +15,182 @@
 
  
  <entry>
+   <title>Agricultural Strategy</title>
+   <link href="http://roundedglobe.github.io/agricultural-strategy/"/>
+   <updated>2016-02-25T00:00:00+00:00</updated>
+   <id>http://roundedglobe.github.io/agricultural-strategy</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;The second of a series of posts by Dr Mark McKerracher on the origins of agriculture.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Question: when is an agricultural strategy not an agricultural strategy?&lt;/p&gt;
+
+&lt;p&gt;Answer: when it’s a socio-cultural strategy.&lt;/p&gt;
+
+&lt;p&gt;OK, bear with me.&lt;/p&gt;
+
+&lt;p&gt;Cast your mind back to my earlier post about &lt;a href=&quot;http://roundedglobe.github.io/origins-of-british-agriculture/&quot;&gt;Neolithic farming in Britain&lt;/a&gt;.  As you may recall, archaeobotanists Stevens &amp;amp; Fuller (2012) have argued that crop husbandry had something of an abortive start in Britain: fading out around the Middle Neolithic and only returning with a “major upsurge in agricultural activity” in the Middle Bronze Age, from around 1500 BC.&lt;/p&gt;
+
+&lt;p&gt;As I said at the time, I’m not a prehistorian, so I’m in no position to critique the model. But I was interested to discover, after writing the earlier post, an article from 2000 which puts a different perspective on things (Brück 2000).&lt;/p&gt;
+
+&lt;p&gt;Since this work came twelve years before Stevens &amp;amp; Fuller’s botanical study, it’s obviously not a rebuttal – nor vice versa, since S&amp;amp;F don’t cite Brück. What it does, however, is suggest a model to explain why things seem to have changed in the Middle Bronze Age. It also provides a corrective to the overtly economic interpretations that have often been placed on the process. Since this period sees the appearance of clearly-defined “farmstead” settlements for the first time, some scholars have suggested that agricultural activity must have intensified in this period – hence also the rise in crops identified by S&amp;amp;F. This all sounds pretty reasonable – unless you think, like Brück, that those Bronze Age folk weren’t actually interested in maximizing productivity. Rather, she suggests that their main reason for creating (relatively) stable farmsteads within spatially defined farming units was a new pattern of social thinking.&lt;/p&gt;
+
+&lt;p&gt;I’ll offer a crude oversimplification of Brück’s argument, for laymen like myself, with apologies to specialists for the inaccuracies and misunderstandings. Here goes. In the Neolithic and Early Bronze Age, we’ve got societies without fixed settlements, but with larger-scale, periodic gatherings of extended kin-groups at monumental sites – henges and the like. But from the Middle Bronze Age, you have these relatively stable settlements, as family groups preferred to stress their autonomy – real or ideal – rather than their fluid connections within the wider kin group. In short, as communities came to be defined by a new social order, the farmsteads represent the imposition of a new physical, spatial order. So the new approaches to farming were the &lt;em&gt;result&lt;/em&gt; – rather than the cause – of social change. Of course, we then have to wonder: what caused the social change in the first place? And there’s no easy answer to that.&lt;/p&gt;
+
+&lt;p&gt;I can’t do justice to the hypothesis here. It draws upon waggon-loads of archaeological and anthropological theory (“ontological security”…? ) but it’s compelling, nonetheless. I never realized, before reading this, that I’d often made an implicit assumption that maximising agricultural production is a desirable thing to do. And to an extent, I still think that’s a reasonable assumption. You surely don’t have to be an arch-capitalist to think that a bit more surplus grain might come in useful. But clearly social circumstances will count for a lot. It’s a matter of perspective, and since we’ll never know what the Bronze Age perspective really was, the speculation will no doubt continue.&lt;/p&gt;
+
+&lt;p&gt;MJM.&lt;/p&gt;
+
+&lt;p&gt;References&lt;/p&gt;
+
+&lt;p&gt;Brück, J. (2000). “Settlement, landscape and social identity: the early-middle Bronze Age transition in Wessex, Sussex and the Thames valley” Oxford Journal of Archaeology 19: pp.273-300. My thanks to Dr A. Bogaard for recommending this article.&lt;/p&gt;
+
+&lt;p&gt;Image credit: ‘Butser Ancient Farm’, &lt;a href=&quot;https://www.flickr.com/photos/gordontour/&quot;&gt;gordontour&lt;/a&gt;. Creative commons license.&lt;/p&gt;
+
+&lt;p&gt;The first post in this series is &lt;a href=&quot;http://roundedglobe.github.io/origins-of-british-agriculture/&quot;&gt;Origins of British Agriculture&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Climate Change</title>
+   <link href="http://roundedglobe.github.io/climate-change/"/>
+   <updated>2016-02-18T00:00:00+00:00</updated>
+   <id>http://roundedglobe.github.io/climate-change</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;James Palmer, early medievalist at St Andrews, reviews recent discussion of the impact of climate change in late antiquity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Late Antique climate change was in the news last week!&lt;/p&gt;
+
+&lt;p&gt;The evidence being put together by Ulf Büntgen and the &lt;a href=&quot;http://www.pages-igbp.org/ini/wg/euro-med2k/erl-faqs-january-2016&quot;&gt;Euro-Med2k Working Group&lt;/a&gt; about Europe’s changing climate is creating a fantastic resource for understanding better the relationship between climate and the course of history. Some of their conclusions are terrifying, particularly that present average summer temperatures have no parallels over the past 2000 years. Let’s not deny climate change is a real thing.&lt;/p&gt;
+
+&lt;p&gt;And yet. There is, as my friend &lt;a href=&quot;http://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_tab1_academic.php?uun=mazzolin&quot;&gt;Monica Azzolini&lt;/a&gt; put it last week, a need for a ‘more nuanced environmental history that actually uses both micro-historical tools and macro-historical tools together’. The reporting of what is now being called ‘The Late Antique Little Ice Age’ makes this a real case in point.&lt;/p&gt;
+
+&lt;p&gt;The idea that there was some environmental change in the period is not new. There have been discussions for years about evidence for a major volcanic eruption around AD536 – an eruption Büntgen now reckons was actually three in relatively quick succession and which forced a drop of maybe up to 4°C in some areas. &lt;a href=&quot;http://isites.harvard.edu/icb/icb.do?keyword=k40117&amp;amp;pageid=icb.page188194&quot;&gt;Michael McCormick&lt;/a&gt; has already published articles arguing that environmental instability helped to destabilise the Roman Empire and to provide conditions for the Justinian Pandemic (i.e. plague) of the sixth century.&lt;/p&gt;
+
+&lt;p&gt;So, onto the new reports.&lt;/p&gt;
+
+&lt;p&gt;First up, I saw &lt;a href=&quot;http://www.archaeology.wiki/blog/2016/02/09/new-little-ice-age-coincides-fall-eastern-roman-empire-growth-arab-empire/&quot;&gt;‘New “Little Ice Age” coincides with fall of Eastern Roman Empire and growth of Arab Empire’&lt;/a&gt;. In this article, Büntgen is quoted as saying ‘with so many variables, we must remain cautious about environmental cause and political effect, but it is striking how closely this climate change aligns with major upheavals across several regions’. (I like ‘We must remain cautious… but…’ there – a classic academic sidestep). The big story should now apparently be: sixth-century tribes moved from the steppes of northern China, formed an alliance with the East Romans, and helped to defeat the Sasanian Empire in Persia in the early seventh century, paving the way for the rise of the Arab Empire.&lt;/p&gt;
+
+&lt;p&gt;What has been ‘explained’ here? As put in the article, the movement of the steppe peoples, prompted by climate change, explains everything that happens thereafter. But it doesn’t. The course of the reign of Herakleios (r.610-641), which covers the defeat of the Persians and the first major successes of the Arabs, was highly complex on almost every conceivable level. Here is the briefest &lt;a href=&quot;http://www.roman-emperors.org/heraclis.htm&quot;&gt;summary&lt;/a&gt;. Climate change may explain some aspects of some factors in play, but it does not explain ‘what happened’.&lt;/p&gt;
+
+&lt;p&gt;Then there was this story in &lt;em&gt;New Scientist&lt;/em&gt;: &lt;a href=&quot;https://www.newscientist.com/article/2076713-125-year-mini-ice-age-linked-to-the-plague-and-fall-of-empires/?platform=hootsuite&quot;&gt;‘125-year mini ice age linked to plague and fall of empires’&lt;/a&gt;. Again these links are a bit vague. ‘There was dramatic social, cultural, and political change in this period. Perhaps aspects of the changes were exacerbated by a colder period’, suggests Late Romanist/Byzantinist Shaun Tougher. Francis Ludlow adds, ‘ultimately there can be very little doubt that these sorts of abrupt climate events place great stress on societies, and can sometimes tip them over the edge’. Both of these statements are entirely reasonable. Neither of them actually addresses whether the changes in the environment had any actual role to play in the shaping of the events the article is about.&lt;/p&gt;
+
+&lt;p&gt;The article finishes with some comments about ‘weather winners’, as some people may have benefited from climate change. Good. Büntgen returns here, suggesting that the Arab conquests of the seventh century may have been helped by increased vegetation caused by climate change. Fine. And Büntgen does not seem to be suggesting that this was ‘the cause of the Arab conquests’. But without any context, it is awkward. There is no suggestion that the Arabs were taking advantage of an East Rome weakened by its recent struggles against the Persian Empire, no suggestion that the leaders were energised by the teaching of Muhammad (d. 632) – there were a lot of political and cultural factors in play, and explaining the Arab conquests on the basis of feeding camels alone is &lt;em&gt;exactly&lt;/em&gt; why invoking environmental factors remains controversial.&lt;/p&gt;
+
+&lt;p&gt;It does not need to be a competition, environment vs people. Let’s be honest: ‘it was a combination of factors’. Changing climate can trigger important changes. People, being people, respond to these changes in different ways. Tying climactic patterns to large-scale ‘rise and fall’ patterns isn’t necessarily helpful, if it promotes a clunky monocausalism. Sometimes people do things, achieve things, despite what the weather is doing.&lt;/p&gt;
+
+&lt;p&gt;This was why I was already undertaking my mini &lt;a href=&quot;https://merovingianworld.wordpress.com/2015/10/16/climates-of-crisis/&quot;&gt;‘Climates of Crisis’&lt;/a&gt; project. We need to understand better the ways in which environmental crisis becomes a human crisis. We need to understand how climate changes intersects with political, religious, and cultural thinking. The work of Büntgen and his colleagues is fantastic – and more historians need to bring their tricks to the party.&lt;/p&gt;
+
+&lt;p&gt;Image credit: ‘Home less’, &lt;a href=&quot;https://www.flickr.com/photos/yasinhasan/&quot;&gt;Yasin Hassan&lt;/a&gt;. Creative commons license.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Changing Faces Of Britain&#39;s Natives</title>
+   <link href="http://roundedglobe.github.io/changing-faces-of-britain's-natives/"/>
+   <updated>2016-02-11T00:00:00+00:00</updated>
+   <id>http://roundedglobe.github.io/changing-faces-of-britain's-natives</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Simon J. Cook, Rounded Globe author, shares some of his research into the history of British conceptions of prehistory and the genesis of Tolkien’s hobbits.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Late-Victorian histories of the English began in the woods of Schleswig, before the migration to the British Isles. But around 1900 historians decided that English history proper should begin with the foundation of the modern state in the fourteenth century. What came before was deemed not only barbarous but insufficiently documented. The story of ancient Britain, and of the peoples who settled it, was left to a motley crew of archaeologists, folklorists, philologists and, increasingly, writers of fiction.&lt;/p&gt;
+
+&lt;div class=&quot;illustration&quot;&gt;
+
+
+&lt;a href=&quot;/images/Cook1.jpg&quot;&gt;&lt;img src=&quot;/images/Cook1.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+	&lt;p&gt;Picture from: &lt;a href=&quot;https://archive.org/details/ourislandstoryhi00marsuoft&quot;&gt;Our Island Story. A History of England for Boys and Girls&lt;/a&gt;, by H.E. Marshall, illustration by A.S. Forrester (London, 1905).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;In the first section of my Rounded Globe essay on &lt;a href=&quot;http://roundedglobe.com/book/54f6fe79648a590459746be1/J.R.R.%20Tolkien&#39;s%20Lost%20English%20Mythology&quot;&gt;&lt;em&gt;J.R.R. Tolkien’s Lost English Mythology&lt;/em&gt;&lt;/a&gt; I’ve discussed some facets of the early twentieth-century search for the ancient English; in this post I track the changing face of Britain’s natives. The picture above depicts a sort of ancient ‘close encounters’ moment: native Britons watch the arrival of the Roman fleet of Julius Caesar. This captures the conventional Victorian image of the Romans bringing civilization to a savage island.&lt;/p&gt;
+
+&lt;p&gt;Compare the primitive Britons above, barefoot and attired in rude animal skins, with the blond giants below. Although this second picture was published earlier, it embodies a newer kind of historical thinking. These iron-age warriors are still Britons, but they are no longer natives.&lt;/p&gt;
+
+&lt;div class=&quot;illustration&quot;&gt;
+
+
+&lt;a href=&quot;/images/Cook2.jpg&quot;&gt;&lt;img src=&quot;/images/Cook2.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+	&lt;p&gt;Picture from: &lt;a href=&quot;https://archive.org/details/bericthebriton00hentrich&quot;&gt;Beric the Briton. A Story of the Roman Invasion&lt;/a&gt;, by G.A. Henty, illustrator unknown (London, 1893).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;For much of the nineteenth century it was assumed that Britain had been settled for only a few generations before the coming of the Romans. But this view became untenable after 1877 and the publication of Canon William Greenwell’s &lt;em&gt;British Barrows&lt;/em&gt;. From his meticulous and extensive archaeological excavations, Greenwell drew the conclusion that prehistoric long barrows were not only older than round barrows, but had been built by a different people.&lt;/p&gt;
+
+&lt;div class=&quot;illustration&quot;&gt;
+
+
+&lt;a href=&quot;/images/Cook3.jpg&quot;&gt;&lt;img src=&quot;/images/Cook3.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+	&lt;p&gt;Image from: &lt;a href=&quot;https://archive.org/details/britishbarrowsre00gree&quot;&gt;British Barrows. A record of the examination of the sepulchral mounds in various parts of England&lt;/a&gt;, by W. Greenwell (Oxford, 1877).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;After Greenwell it was generally accepted that the Celtic-speaking Britons, the supposed makers of the round barrows, had intruded upon an earlier population. The result was the rehabilitation of the Britons: no longer the passive victims of history, conquered and pushed aside by more vigorous peoples, the Britons became invading immigrants in their own right – ancient barbarians, maybe, yet virtuous and worthy ancestors for the modern British. In the caption of the second picture above the leading Briton declares: ‘Tell Suetonius that we scorn his mercy and will die as we have lived, free men.’&lt;/p&gt;
+
+&lt;p&gt;Who, then, were the newly discovered natives? With precious little archaeological or philological evidence to work with, scholars turned to fairy tales.&lt;/p&gt;
+
+&lt;p&gt;In 1900 John Rhys, the first Oxford Professor of Celtic, delivered the presidential address to the Anthropology section of the &lt;a href=&quot;https://archive.org/details/reportofbritisha00scie&quot;&gt;British Association for the Advancement of Science&lt;/a&gt;. His chosen theme was the value of folk tales for the study of the ancient past, and he argued that behind the ‘rabble of divinities and demons’ who disport themselves in Celtic folklore it is possible to discern the succession of peoples who have inhabited the British Isles. Welsh fairy stories, according to Rhys, contained dim memories of the native population encountered by the first Celtic-speaking intruders. The real ‘little people’, he inferred, had been ‘a small swarthy population of mound-dwellers, of an unwarlike disposition… and living underground’.&lt;/p&gt;
+
+&lt;div class=&quot;illustration&quot;&gt;
+
+
+&lt;a href=&quot;/images/Cook4.jpg&quot;&gt;&lt;img src=&quot;/images/Cook4.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+	&lt;p&gt;Picture from the cover of &lt;a href=&quot;https://archive.org/details/watcherbythresho00buchuoft&quot;&gt;John Buchan’s The Watcher by the Threshold&lt;/a&gt; (London, 1902).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Rhys’ ideas seem to have sparked the imagination of a couple of young minds. John Buchan went up to Oxford in 1895. His short story ‘No-Man’s-Land’, which appeared in print seven years later, tells the dreadful story of an Oxford scholar of Northern Antiquities (like Rhys perhaps, or one of his students), who holidays in the remote Highlands of Scotland, where he encounters – and is  taken captive by – ‘the Hidden People’:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Then suddenly in the hollow trough of mist before me… there appeared a figure. It was little and squat and dark; naked, apparently, but so rough with hair that it wore the appearance of a skin-covering… in its face and eyes there seemed to lurk an elder world of mystery and barbarism, a troll-like life which was too horrible for words.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While captive in their ‘hill refuge’ the Oxford scholar hears harsh words directed at the British invader, bitter curses for the Saxon stranger; and he glimpses ‘a morbid hideous existence’ preserved for centuries by these relics of a nameless past.&lt;/p&gt;
+
+&lt;p&gt;Buchan’s natives are the complete antithesis of the modern British subject; a sort of primitive Hyde to the modern Dr. Jekyll. One can perhaps discern a post-WWII twist to this fable in &lt;em&gt;The Inheritors&lt;/em&gt;, the 1955 novel by William Golding (who incidentally attended the same Oxford college as Buchan). In Golding’s story the original dwellers of the land have become Neanderthals – a separate species to modern humans. But in contrast to Buchan, Golding represents these natives as a peaceful if queer-thinking folk; it is the human intruders who are violent and frightening.&lt;/p&gt;
+
+&lt;p&gt;Buchan’s portrayal of Britain’s ancient folk as radically different to the modern population of the British Isles made for a good story; but it did not reflect an Edwardian scholarly consensus that &lt;em&gt;all&lt;/em&gt; newcomers to Britain had interbred with those already settled on the land. Far from being a separate species, scholars believed that much native blood flows through the veins of the inhabitants of modern Britain (the same kind of idea is now put in terms of DNA). An Englishman, a Scotsman, or a Welshmen who meets one of the forgotten little people is quite possibly discovering but a smaller version of himself. And if such encounters have today become rather rare in the fields and hedgerows of Britain, this is a familiar enough experience to many readers of J.R.R. Tolkien’s classic children’s story of 1937, &lt;em&gt;The Hobbit&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hobbits are a homely depiction of Britain’s natives. Tolkien tells us that they are a ‘little people’, who today ‘have become rare and shy of the Big People, as they call us’. But once upon a time, ‘long ago in the quiet of the world, when there was less noise and more green’, hobbits were ‘numerous and prosperous’.&lt;/p&gt;
+
+&lt;p&gt;Going up to Oxford in 1911, Tolkien as an undergraduate probably attended Rhys’ lectures; later, in a short essay of 1932, we find him engaging carefully with his scholarship. And it seems that Tolkien had read the Professor of Celtic’s 1900 presidential address. At one point in this lecture Rhys discusses certain ‘underground – or partially underground – habitations’ that, he believed, had been home to Britain’s natives. These abodes, he explains:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;appear from the outside like hillocks covered with grass, so as presumably not to attract attention… But one of the most remarkable things about them is the fact that the cells or apartments into which they are divided are frequently so small that their inmates must have been of very short stature.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But if Tolkien first stumbled upon a hobbit hole whilst reading Rhys’ lecture, it seems likely that his imagination drew also upon Buchan’s depiction of Britain’s natives as subhuman trolls. Certainly, John Buchan was one of Tolkien’s favourite authors. Of course, Bilbo’s hole under the hill is snug and comfortable; the encounter with a ‘hideous existence’ within a ‘hill refuge’ described by Buchan finds its counterpart, not at Bag End, but in that cave deep within the Misty Mountains into which had wormed his way, long ages ago, ‘a small slimy creature’ called Gollum.&lt;/p&gt;
+
+&lt;p&gt;Header image: ‘Bag End’, &lt;a href=&quot;https://www.flickr.com/photos/cwagner33/16412701584/in/photolist-r1konw-f1vrhZ-r9T7na-gSUGYy-fmydgt-oFniqm-qXCt91-eTWhEj-gQcA7v-dW2JCm-nkC5Az-nnouXK-dW2ydC-dTYvrS-qwwRR-rV3eUY-kwR9Kt-78p8QM-kz4UY4-meQa1g-AYZ1kw-7p1Q5Z-rNagXL-5Dke6x-qJhsWF-2bFs5Y-dBstuz-dBxTow-rXvrG5-o6h9pM-dW2C1A-33BvLu-bxVL-ooUeXN-dMMizo-gcABdA-gcxSvr-rXyuCP-rFbrFe-rPZsi5-rhsYc-5vDr9z-gLP9h9-4aysoZ-qFY2N4-rmbW7C-qX9auA-qXdT6B-qZsMSU-nJM8Qs&quot;&gt;Christopher Wagner&lt;/a&gt;. Creative commons license.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>The Command Line</title>
    <link href="http://roundedglobe.github.io/the_command_line/"/>
    <updated>2016-02-04T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/the_command_line</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Today Drew Holgate, co-founder of Rounded Globe, begins a series of occasional posts highlighting the significance of Linux, the free software movement, and other techy issues that the educated public should be aware of, but aren&amp;#39;t.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Drew Holgate, co-founder of Rounded Globe, begins a series of occasional posts highlighting the significance of Linux, the free software movement, and other techy issues that the educated public should be aware of, but aren’t.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;quot;Don&amp;#39;t you have to use the command line?&amp;quot; or &amp;quot;Isn&amp;#39;t Linux a command line?&amp;quot; are concerns people often raise when thinking about switching to Linux.&lt;/p&gt;
+&lt;p&gt;“Don’t you have to use the command line?” or “Isn’t Linux a command line?” are concerns people often raise when thinking about switching to Linux.&lt;/p&gt;
 
-&lt;p&gt;And they tend to be mollified with something like &amp;quot;No, you never need to touch the command line. You can do everything you&amp;#39;d do on any other computer without ever seeing the command line&amp;quot;. Which is perfectly true. But we see the unspoken question in their eyes; &amp;quot;If you don&amp;#39;t have to use it, then why on earth &lt;em&gt;do&lt;/em&gt; you?&amp;quot;.&lt;/p&gt;
+&lt;p&gt;And they tend to be mollified with something like “No, you never need to touch the command line. You can do everything you’d do on any other computer without ever seeing the command line”. Which is perfectly true. But we see the unspoken question in their eyes; “If you don’t have to use it, then why on earth &lt;em&gt;do&lt;/em&gt; you?”.&lt;/p&gt;
 
-&lt;p&gt;They don&amp;#39;t actually ask it because they&amp;#39;re afraid we&amp;#39;ll talk more about Linux.&lt;/p&gt;
+&lt;p&gt;They don’t actually ask it because they’re afraid we’ll talk more about Linux.&lt;/p&gt;
 
-&lt;p&gt;And it&amp;#39;s understandable, to their eyes the command line looks archaic — it&amp;#39;s what people used in the 70s and we&amp;#39;ve got &lt;em&gt;graphics&lt;/em&gt; now — why would you use something so &lt;em&gt;crude&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;And it’s understandable, to their eyes the command line looks archaic — it’s what people used in the 70s and we’ve got &lt;em&gt;graphics&lt;/em&gt; now — why would you use something so &lt;em&gt;crude&lt;/em&gt;?&lt;/p&gt;
 
 &lt;div class=&quot;illustration&quot;&gt;
 
@@ -35,7 +198,7 @@
 &lt;a href=&quot;/images/the_command_line.png&quot;&gt;&lt;img src=&quot;/images/the_command_line.png&quot; /&gt;&lt;/a&gt;
 
 &lt;span&gt;
-    &lt;p&gt;Well it&amp;#39;s beautiful to &lt;em&gt;me&lt;/em&gt;.&lt;/p&gt;
+	&lt;p&gt;Well it’s beautiful to &lt;em&gt;me&lt;/em&gt;.&lt;/p&gt;
 
 &lt;/span&gt;
 
@@ -43,24 +206,27 @@
 
 &lt;p&gt;When you are using a computer you are communicating with it; you are telling it what you want it to do and it is telling you the results of what you asked. The Linux command line is a verbal language for communicating with your computer. Linux commands are words in a language, each embodying one idea. Like words in any language, they can be arranged into sentences of any length and complexity.&lt;/p&gt;
 
-&lt;p&gt;Suppose, for some reason, I wanted an ordered, uppercase list of all the most common words in this document I&amp;#39;m writing now. In English that would be &amp;quot;Produce a list of the thirty most common words in this document with a frequency count, order it by frequency and then alphabetically, convert the words to uppercase and then email me the list&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Suppose, for some reason, I wanted an ordered, uppercase list of all the most common words in this document I’m writing now. In English that would be “Produce a list of the thirty most common words in this document with a frequency count, order it by frequency and then alphabetically, convert the words to uppercase and then email me the list”.&lt;/p&gt;
 
 &lt;p&gt;In the language of the Linux command line that would be:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;tr -d &amp;quot;\&amp;quot;,&amp;quot; &amp;lt; the_command_line.md | tr -cs &amp;quot;[:graph:]&amp;quot; &amp;quot;\n&amp;quot; | tr &amp;quot;[:lower:]&amp;quot; &amp;quot;[:upper:]&amp;quot; | awk &amp;#39;{h[$1]++}END{for (i in h){print i&amp;quot; (&amp;quot;h[i]&amp;quot;)&amp;quot;}}&amp;#39;| sort -nr -t$&amp;#39;(&amp;#39; -k2 -k1d | cat -n | head -n 30 | mailx -s &amp;quot;common words&amp;quot; uo.is.ou@gmail.com
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tr -d &quot;\&quot;,&quot; &amp;lt; the_command_line.md | tr -cs &quot;[:graph:]&quot; &quot;\n&quot; | tr &quot;[:lower:]&quot; &quot;[:upper:]&quot; | awk &#39;{h[$1]++}END{for (i in h){print i&quot; (&quot;h[i]&quot;)&quot;}}&#39;| sort -nr -t$&#39;(&#39; -k2 -k1d | cat -n | head -n 30 | mailx -s &quot;common words&quot; uo.is.ou@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 &lt;p&gt;A second later, &lt;a href=&quot;http://i.imgur.com/XCWUT0w.png&quot;&gt;the email arrives&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course &lt;a href=&quot;https://en.wikipedia.org/wiki/Man_page&quot;&gt;there&amp;#39;s a command&lt;/a&gt; for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.&lt;/p&gt;
+&lt;p&gt;As with any verbal language, you need to learn it before you can use it. But, like any language, you start small; first learning syntax and then filling out vocabulary. And of course &lt;a href=&quot;https://en.wikipedia.org/wiki/Man_page&quot;&gt;there’s a command&lt;/a&gt; for finding out what each command means and how to use it — a combined dictionary and textbook of sorts.&lt;/p&gt;
 
-&lt;p&gt;I could save the above command, perhaps calling it &amp;#39;count2email&amp;#39;, and then it becomes a word I can use — I have coined a new word in the language.&lt;/p&gt;
+&lt;p&gt;I could save the above command, perhaps calling it ‘count2email’, and then it becomes a word I can use — I have coined a new word in the language.&lt;/p&gt;
 
-&lt;p&gt;A graphical user interface only allows the user to perform the discrete set of tasks that the programmer has explicitly provided — an application can either do something (like emailing a list of all the commonly used words) or it can&amp;#39;t. The command line allows the user to tell the computer &lt;em&gt;exactly&lt;/em&gt; what to do. It is precise, expressive and lends itself particularly well to complex or repetitive tasks. If I wanted my computer to, every third Tuesday, make a list of the most common words in the file I have written to most recently, overlay those words on a randomly chosen image of a kitten from the internet and then post that image to my website, I could do that. I don&amp;#39;t know why I&amp;#39;d want to, but I could.&lt;/p&gt;
+&lt;p&gt;A graphical user interface only allows the user to perform the discrete set of tasks that the programmer has explicitly provided — an application can either do something (like emailing a list of all the commonly used words) or it can’t. The command line allows the user to tell the computer &lt;em&gt;exactly&lt;/em&gt; what to do. It is precise, expressive and lends itself particularly well to complex or repetitive tasks. If I wanted my computer to, every third Tuesday, make a list of the most common words in the file I have written to most recently, overlay those words on a randomly chosen image of a kitten from the internet and then post that image to my website, I could do that. I don’t know why I’d want to, but I could.&lt;/p&gt;
 
-&lt;p&gt;Of course there are certain tasks for which a graphical interface is better-suited. But for those where it&amp;#39;s not, using one is like trying to have a conversation with another human using only Pictionary.&lt;/p&gt;
+&lt;p&gt;Of course there are certain tasks for which a graphical interface is better-suited. But for those where it’s not, using one is like trying to have a conversation with another human using only Pictionary.&lt;/p&gt;
 
-&lt;p&gt;That&amp;#39;s why some people use the command line. Not out of necessity, but out of choice.&lt;/p&gt;
+&lt;p&gt;That’s why some people use the command line. Not out of necessity, but out of choice.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg&quot;&gt;Header image&lt;/a&gt;: Ken Thompson and Dennis Ritchie, the inventors of &lt;a href=&quot;https://en.wikipedia.org/wiki/Unix&quot;&gt;Unix&lt;/a&gt;. CC BY-SA license. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg&quot;&gt;Header image&lt;/a&gt;: Ken Thompson and Dennis Ritchie, the inventors of &lt;a href=&quot;https://en.wikipedia.org/wiki/Unix&quot;&gt;Unix&lt;/a&gt;. CC BY-SA license.&lt;/p&gt;
 </content>
  </entry>
  
@@ -69,7 +235,7 @@
    <link href="http://roundedglobe.github.io/chaucer-goes-to-the-golden-horde/"/>
    <updated>2016-01-29T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/chaucer-goes-to-the-golden-horde</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Today we publish a post by the historical novelist Bryn Hammond, whose &lt;a href=&quot;http://roundedglobe.com/book/54f6f692a26359d553f3348e/Voices%20from%20the%20Twelfth-Century%20Steppe&quot;&gt;&lt;em&gt;Voices from the Twelfth-Century Steppe&lt;/em&gt;&lt;/a&gt; is scheduled for publication by Rounded Globe on March 15, 2016.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Today we publish a post by the historical novelist Bryn Hammond, whose &lt;a href=&quot;http://roundedglobe.com/book/54f6f692a26359d553f3348e/Voices%20from%20the%20Twelfth-Century%20Steppe&quot;&gt;_Voices from the Twelfth-Century Steppe_&lt;/a&gt; is scheduled for publication by Rounded Globe on March 15, 2016.&lt;/em&gt;&lt;/p&gt;
 
 &lt;div class=&quot;illustration smallimg left&quot;&gt;
 
@@ -77,7 +243,7 @@
 &lt;a href=&quot;http://amgalant.com/wp-content/uploads/2015/06/800px-Diego-homem-black-sea-ancient-map-1559.jpg&quot;&gt;&lt;img src=&quot;http://amgalant.com/wp-content/uploads/2015/06/800px-Diego-homem-black-sea-ancient-map-1559.jpg&quot; /&gt;&lt;/a&gt;
 
 &lt;span&gt;
-    &lt;p&gt;Black Sea map 1559. Wiki Commons.&lt;/p&gt;
+	&lt;p&gt;Black Sea map 1559. Wiki Commons.&lt;/p&gt;
 
 &lt;/span&gt;
 
@@ -93,7 +259,7 @@
 &lt;a href=&quot;http://amgalant.com/wp-content/uploads/2015/06/1024px-Flying_Horse_East_Han_Dynasty.Bronze._Gansu_Provincial_Museum.jpg&quot;&gt;&lt;img src=&quot;http://amgalant.com/wp-content/uploads/2015/06/1024px-Flying_Horse_East_Han_Dynasty.Bronze._Gansu_Provincial_Museum.jpg&quot; /&gt;&lt;/a&gt;
 
 &lt;span&gt;
-    &lt;p&gt;Flying Horse (hoof on a swallow), East Han Dynasty, bronze. Wiki Commons.&lt;/p&gt;
+	&lt;p&gt;Flying Horse (hoof on a swallow), East Han Dynasty, bronze. Wiki Commons.&lt;/p&gt;
 
 &lt;/span&gt;
 
@@ -107,7 +273,7 @@
 &lt;a href=&quot;http://amgalant.com/wp-content/uploads/2015/06/Castiglione-Horse_Chaonier.jpg&quot;&gt;&lt;img src=&quot;http://amgalant.com/wp-content/uploads/2015/06/Castiglione-Horse_Chaonier.jpg&quot; /&gt;&lt;/a&gt;
 
 &lt;span&gt;
-    &lt;p&gt;Giuseppe Castiglione (1688-1766), court painter for the Qing, one of his Four Afghan Steeds. Wiki Commons.&lt;/p&gt;
+	&lt;p&gt;Giuseppe Castiglione (1688-1766), court painter for the Qing, one of his Four Afghan Steeds. Wiki Commons.&lt;/p&gt;
 
 &lt;/span&gt;
 
@@ -123,7 +289,7 @@
 &lt;a href=&quot;http://amgalant.com/wp-content/uploads/2015/06/Braun_Genova_UBHD-View-of-Genoa-in-1572.jpg&quot;&gt;&lt;img src=&quot;http://amgalant.com/wp-content/uploads/2015/06/Braun_Genova_UBHD-View-of-Genoa-in-1572.jpg&quot; /&gt;&lt;/a&gt;
 
 &lt;span&gt;
-    &lt;p&gt;View of Genoa 1572. Wiki Commons.&lt;/p&gt;
+	&lt;p&gt;View of Genoa 1572. Wiki Commons.&lt;/p&gt;
 
 &lt;/span&gt;
 
@@ -131,10 +297,10 @@
 
 &lt;p&gt;I’m fascinated by Chaucer’s trip of the imagination to Saray, and later adventures too of European romancers in the Mongol world. More to come on my own blog, &lt;a href=&quot;http://amgalant.com/&quot;&gt;Amgalant&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;Main works consulted:&lt;/h2&gt;
+&lt;h2 id=&quot;main-works-consulted&quot;&gt;Main works consulted:&lt;/h2&gt;
 
-&lt;p&gt;Virgil Ciocîltan, &lt;a href=&quot;http://www.brill.com/mongols-and-black-sea-trade-thirteenth-and-fourteenth-centuries&quot;&gt;&lt;em&gt;The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries&lt;/em&gt;&lt;/a&gt;, translated by Samuel Willcocks, Leiden, Brill, 2012.&lt;br&gt;
-Carmel Jordan, ‘Soviet Archeology and the Setting of the Squire’s Tale’, &lt;em&gt;The Chaucer Review&lt;/em&gt;, volume 22, issue 2, 1987, pp. 128-9.&lt;br&gt;
+&lt;p&gt;Virgil Ciocîltan, &lt;a href=&quot;http://www.brill.com/mongols-and-black-sea-trade-thirteenth-and-fourteenth-centuries&quot;&gt;&lt;em&gt;The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries&lt;/em&gt;&lt;/a&gt;, translated by Samuel Willcocks, Leiden, Brill, 2012.   &lt;br /&gt;
+Carmel Jordan, ‘Soviet Archeology and the Setting of the Squire’s Tale’, &lt;em&gt;The Chaucer Review&lt;/em&gt;, volume 22, issue 2, 1987, pp. 128-9.  &lt;br /&gt;
 Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicago/T/bo16552205.html&quot;&gt;&lt;em&gt;Trade and Romance&lt;/em&gt;&lt;/a&gt;, Chicago &amp;amp; London, University of Chicago Press, 2014.&lt;/p&gt;
 
 &lt;p&gt;Header image: Caravan of Marco Polo, from the Catalan Atlas 1375, attr. to Cresques Abraham. Wiki Commons.&lt;/p&gt;
@@ -146,7 +312,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
    <link href="http://roundedglobe.github.io/grand-challenges-for-archaeology/"/>
    <updated>2016-01-24T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/grand-challenges-for-archaeology</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Michael E. Smith&amp;#39;s post is part of the &lt;a href=&quot;https://dougsarchaeology.wordpress.com/2016/01/01/the-grand-challenges-for-archaeology-a-blogging-carnival/&quot;&gt;Grand challenges for archaeology blogging carnival&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Michael E. Smith’s post is part of the &lt;a href=&quot;https://dougsarchaeology.wordpress.com/2016/01/01/the-grand-challenges-for-archaeology-a-blogging-carnival/&quot;&gt;Grand challenges for archaeology blogging carnival&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We do archaeology in order to learn about the past. This is a pretty broad purview. We learn about an amazing variety of past things from archaeology, from Richard III’s posture to the causes of the Maya collapse, from what the Natufians ate for breakfast to how the Plains peoples hunted bison. We work hard to recover treasure, garbage, dirt, tools, cathedrals and latrines, and we use them to make statements about what happened long ago. We ask all sorts of questions: Whodunnit? What the heck is that? Why is this particular coin sitting in that specific layer? What were they thinking?&lt;/p&gt;
 
@@ -161,11 +327,11 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 &lt;p&gt;I see &lt;strong&gt;&lt;em&gt;two major roadblocks&lt;/em&gt;&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Our data are not available; and, &lt;/li&gt;
-&lt;li&gt;Our epistemology is inadequate, particularly in the areas of theory and argument.&lt;/li&gt;
+  &lt;li&gt;Our data are not available; and,&lt;/li&gt;
+  &lt;li&gt;Our epistemology is inadequate, particularly in the areas of theory and argument.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;(1) Our data are not available&lt;/h2&gt;
+&lt;h2 id=&quot;our-data-are-not-available&quot;&gt;(1) Our data are not available&lt;/h2&gt;
 
 &lt;p&gt;The “gray literature” of unpublished and poorly available contract archaeology reports is a vast sink of archaeological data. Some of it is reported in formats that can be used by other scholars, and some is not. Some is posted online, much is not. There is more contract archaeology going on around the world than grant-funded academic research, yet most of the results contribute little or nothing to building a systematic foundation of knowledge about the past. This needs to change. There are far too many academic archaeological research projects that are never adequately published, leaving important artifacts moldering in a dusty lab or analyzed data locked up in individual idiosyncratic data formats. And even archaeological data from projects that are published can be difficult to access; we need datafiles—not printed tables of numbers—and more excavation photographs—not the few that made it into the report.&lt;/p&gt;
 
@@ -173,15 +339,15 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 
 &lt;p&gt;The challenge here is to change the behavior of individuals (like me) and to promote institutional solutions that will make our data available. Even when data ARE available, they will often need cleaning and sorting and recoding if we are going to compare our data to social science data about the present (Smith 2010). Creating and using data archives is a big part of this challenge, and that is why &lt;a href=&quot;https://www.tdar.org/about/&quot;&gt;archives like tDAR&lt;/a&gt; are so important. But a change in the culture of archaeology may also be required. When an economic historian publishes a study that uses quantitative data, the datafiles are regularly posted and made available for others to use and reanalyze. Could anyone reanalyze my data that way? Not yet. We don’t have a culture within archaeology that promotes the easy sharing of data. A change in these norms would be a big improvement.&lt;/p&gt;
 
-&lt;h2&gt;(2) Our epistemology is inadequate&lt;/h2&gt;
+&lt;h2 id=&quot;our-epistemology-is-inadequate&quot;&gt;(2) Our epistemology is inadequate&lt;/h2&gt;
 
 &lt;p&gt;Archaeology is a science, in the standard social-science conception of science as having these traits:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Knowledge is responsive to evidence&lt;/li&gt;
-&lt;li&gt;Claims are exposed to challenge&lt;/li&gt;
-&lt;li&gt;Findings should be internally coherent&lt;/li&gt;
-&lt;li&gt;Arguments should be judged on the basis of explanatory power, generality, simplicity, and replicability. For discussion of these traits, see: Gerring (2012) or Wylie (2000).&lt;/li&gt;
+  &lt;li&gt;Knowledge is responsive to evidence&lt;/li&gt;
+  &lt;li&gt;Claims are exposed to challenge&lt;/li&gt;
+  &lt;li&gt;Findings should be internally coherent&lt;/li&gt;
+  &lt;li&gt;Arguments should be judged on the basis of explanatory power, generality, simplicity, and replicability. For discussion of these traits, see: Gerring (2012) or Wylie (2000).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For those of my colleagues who view archaeology as a branch of the humanities, or who are hostile to science for reasons postmodern or other, please ignore the following discussion; it does not apply to you. But if one accepts the notion that archaeology does indeed (or can) conform to the model of science as outline above, then one has to be depressed about the current state of archaeological epistemology. Propositions are rarely tested, claims are too infrequently challenged, and formal arguments are rarely examined for adequacy. I explore this situation and provide suggestions for improving our arguments in Smith (2015). One result of our sloppy epistemology is that we have failed to create a solid body of empirical knowledge that can be improved, refined, and extended as research proceeds.&lt;/p&gt;
@@ -190,9 +356,9 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 
 &lt;p&gt;Although few archaeologists use the phrase “postmodern” these days, this anti-science perspective is rampant in the discipline. As noted by a noted postmodern geographer, scholars now prefer to use the term “post-structuralism” because it is a “safer sounding label” than postmodernism (Soja 2001:11863). A major goal of scholarship from this perspective is to deconstruct or problematize knowledge. That is, the idea is to break down established knowledge. In science, on the other hand, the goal is to build and extend reliable bodies of knowledge. In several blog posts—see &lt;a href=&quot;http://publishingarchaeology.blogspot.co.il/2012/01/rejected-by-science_27.html&quot;&gt;here&lt;/a&gt;, and &lt;a href=&quot;http://publishingarchaeology.blogspot.co.il/2012/06/science-type-1-vs-science-type-2.html&quot;&gt;here&lt;/a&gt;—I have discussed two types of “science” in archaeology. Science type 1 is research with a scientific epistemology as discussed here. Science type 2 is work in an interpretivist or non-scientific framework that employs scientific techniques from other disciplines as part of the research process. Archaeologists pursing this model can sometimes fool scientific granting agencies by touting their use of archaeometry or “archaeological science,” while hiding the fact that their research is governed by a non-scientific epistemology.&lt;/p&gt;
 
-&lt;p&gt;Only research carried out with a scientific epistemology, making rigorous empirical arguments about data and about the past, serves to build a body of archaeological knowledge that is capable of generating reliable conclusions about past human societies (beyond descriptions of individual sites or finds). The prevalence of non-scientific epistemologies in archaeology (all the “post-“ approaches) makes it difficult to create this reliable knowledge. Yet for many of us, the goal of our work is to say something useful about past human societies. As in the case of the first roadblock—data availability—the promotion of a scientific epistemology will require a change in the culture of archaeology. If we want to contribute to a body of empirical evidence about human societies and their change over time, then we have our work cut out for us. If we fail to meet this &amp;quot;grand challenge,&amp;quot; then it is hard to see how we can meet all the other grand challenges identified by Kintigh et al. (2014a, 2014b) and by the other bloggers participating in this event.&lt;/p&gt;
+&lt;p&gt;Only research carried out with a scientific epistemology, making rigorous empirical arguments about data and about the past, serves to build a body of archaeological knowledge that is capable of generating reliable conclusions about past human societies (beyond descriptions of individual sites or finds). The prevalence of non-scientific epistemologies in archaeology (all the “post-“ approaches) makes it difficult to create this reliable knowledge. Yet for many of us, the goal of our work is to say something useful about past human societies. As in the case of the first roadblock—data availability—the promotion of a scientific epistemology will require a change in the culture of archaeology. If we want to contribute to a body of empirical evidence about human societies and their change over time, then we have our work cut out for us. If we fail to meet this “grand challenge,” then it is hard to see how we can meet all the other grand challenges identified by Kintigh et al. (2014a, 2014b) and by the other bloggers participating in this event.&lt;/p&gt;
 
-&lt;h2&gt;References&lt;/h2&gt;
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
 &lt;p&gt;6, Perri and Christine Bellamy. 2012. &lt;em&gt;Principles of Methodology: Research Design in Social Science&lt;/em&gt;. Sage, New York.&lt;/p&gt;
 
@@ -200,27 +366,27 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 
 &lt;p&gt;Hedström, Peter. 2005. &lt;em&gt;Dissecting the Social: On the Principles of Analytical Sociology&lt;/em&gt;. Cambridge University Press, New York.&lt;/p&gt;
 
-&lt;p&gt;Kintigh, Keith W., Jeffrey Altschul, Mary Beaudry, Robert Drennan, Ann Kinzig, Timothy Kohler, W. Frederick Limp, Herbert Maschner, William Michener, Timothy Pauketat, Peter Peregrine, Jeremy Sabloff, Tony Wilkinson, Henry Wright, and Melinda Zeder. 2014. &amp;#39;Grand Challenges for Archaeology&amp;#39;. &lt;em&gt;American Antiquity&lt;/em&gt; 79 (1): 5-24.&lt;/p&gt;
+&lt;p&gt;Kintigh, Keith W., Jeffrey Altschul, Mary Beaudry, Robert Drennan, Ann Kinzig, Timothy Kohler, W. Frederick Limp, Herbert Maschner, William Michener, Timothy Pauketat, Peter Peregrine, Jeremy Sabloff, Tony Wilkinson, Henry Wright, and Melinda Zeder. 2014. ‘Grand Challenges for Archaeology’. &lt;em&gt;American Antiquity&lt;/em&gt; 79 (1): 5-24.&lt;/p&gt;
 
-&lt;p&gt;Kintigh, Keith W., Jeffrey H. Altschul, Mary C. Beaudry, Robert D. Drennan, Ann P. Kinzig, Timothy A. Kohler, W. Frederick Limp, Herbert D. G. Maschner, William K. Michener, Timothy R. Pauketat, Peter Peregrine, Jeremy A. Sabloff, Tony J. Wilkinson, Henry T. Wright, and Melinda A. Zeder. 2014. &amp;#39;Grand Challenges for Archaeology&amp;#39;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 122: 879-880.&lt;/p&gt;
+&lt;p&gt;Kintigh, Keith W., Jeffrey H. Altschul, Mary C. Beaudry, Robert D. Drennan, Ann P. Kinzig, Timothy A. Kohler, W. Frederick Limp, Herbert D. G. Maschner, William K. Michener, Timothy R. Pauketat, Peter Peregrine, Jeremy A. Sabloff, Tony J. Wilkinson, Henry T. Wright, and Melinda A. Zeder. 2014. ‘Grand Challenges for Archaeology’. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 122: 879-880.&lt;/p&gt;
 
-&lt;p&gt;Mjøset, Lars. 2001. &amp;#39;Theory: Conceptions in the Social Sciences&amp;#39;. In &lt;em&gt;International Encyclopedia of the Social and Behavioral Sciences&lt;/em&gt;, edited by Neil J. Smelser and Paul B. Baltes, pp. 15641-15647. Elsevier, New York.&lt;/p&gt;
+&lt;p&gt;Mjøset, Lars. 2001. ‘Theory: Conceptions in the Social Sciences’. In &lt;em&gt;International Encyclopedia of the Social and Behavioral Sciences&lt;/em&gt;, edited by Neil J. Smelser and Paul B. Baltes, pp. 15641-15647. Elsevier, New York.&lt;/p&gt;
 
-&lt;p&gt;Smith, Michael E. 2010. &amp;#39;Sprawl, Squatters, and Sustainable Cities: Can Archaeological Data Shed Light on Modern Urban Issues?&amp;#39; &lt;em&gt;Cambridge Archaeological Journal&lt;/em&gt; 20: 229-253.&lt;/p&gt;
+&lt;p&gt;Smith, Michael E. 2010. ‘Sprawl, Squatters, and Sustainable Cities: Can Archaeological Data Shed Light on Modern Urban Issues?’ &lt;em&gt;Cambridge Archaeological Journal&lt;/em&gt; 20: 229-253.&lt;/p&gt;
 
-&lt;p&gt;Smith, Michael E. 2015. &amp;#39;How can Archaeologists Make Better Arguments?&amp;#39; &lt;em&gt;The SAA Archaeological Record&lt;/em&gt; 15 (4): 18-23.&lt;/p&gt;
+&lt;p&gt;Smith, Michael E. 2015. ‘How can Archaeologists Make Better Arguments?’ &lt;em&gt;The SAA Archaeological Record&lt;/em&gt; 15 (4): 18-23.&lt;/p&gt;
 
-&lt;p&gt;Smith, Michael E., Gary M. Feinman, Robert D. Drennan, Timothy Earle, and Ian Morris. 2012. &amp;#39;Archaeology as a Social Science&amp;#39;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 109: 7617-7621.&lt;/p&gt;
+&lt;p&gt;Smith, Michael E., Gary M. Feinman, Robert D. Drennan, Timothy Earle, and Ian Morris. 2012. ‘Archaeology as a Social Science’. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 109: 7617-7621.&lt;/p&gt;
 
-&lt;p&gt;Soja, Edward W. 2001. &amp;#39;Postmodernism in Geography&amp;#39;. In &lt;em&gt;International Encyclopedia of the Social and Behavioral Sciences&lt;/em&gt;, edited by Neil J. Smelser and Paul B. Baltes, pp. 11860-11865. Elsevier, New York.&lt;/p&gt;
+&lt;p&gt;Soja, Edward W. 2001. ‘Postmodernism in Geography’. In &lt;em&gt;International Encyclopedia of the Social and Behavioral Sciences&lt;/em&gt;, edited by Neil J. Smelser and Paul B. Baltes, pp. 11860-11865. Elsevier, New York.&lt;/p&gt;
 
-&lt;p&gt;Tilly, Charles. 1994. &amp;#39;Softcore Solipsism&amp;#39;. &lt;em&gt;Labour / Le Travail&lt;/em&gt; 34: 259-268.&lt;/p&gt;
+&lt;p&gt;Tilly, Charles. 1994. ‘Softcore Solipsism’. &lt;em&gt;Labour / Le Travail&lt;/em&gt; 34: 259-268.&lt;/p&gt;
 
 &lt;p&gt;Tilly, Charles. 2008. &lt;em&gt;Explaining Social Processes&lt;/em&gt;. Paradigm Publishers, Boulder, CO.&lt;/p&gt;
 
-&lt;p&gt;Wylie, Alison. 2000. &amp;#39;Questions of Evidence, Legitimacy, and the (Dis)unity of Science&amp;#39;. &lt;em&gt;American Antiquity&lt;/em&gt; 65: 227-237.&lt;/p&gt;
+&lt;p&gt;Wylie, Alison. 2000. ‘Questions of Evidence, Legitimacy, and the (Dis)unity of Science’. &lt;em&gt;American Antiquity&lt;/em&gt; 65: 227-237.&lt;/p&gt;
 
-&lt;p&gt;Image credit: &amp;#39;Aztec Ruins NM&amp;#39;, &lt;a href=&quot;https://www.flickr.com/photos/jb10okiefwpp/&quot;&gt;jb10okie&lt;/a&gt;. Creative commons license.&lt;/p&gt;
+&lt;p&gt;Image credit: ‘Aztec Ruins NM’, &lt;a href=&quot;https://www.flickr.com/photos/jb10okiefwpp/&quot;&gt;jb10okie&lt;/a&gt;. Creative commons license.&lt;/p&gt;
 </content>
  </entry>
  
@@ -229,7 +395,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
    <link href="http://roundedglobe.github.io/origins-of-british-agriculture/"/>
    <updated>2016-01-22T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/origins-of-british-agriculture</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;The first of a series of posts by Dr Mark McKerracher on the origins of agriculture. Subsequent posts will be published in this blog from time to time...&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;The first of a series of posts by Dr Mark McKerracher on the origins of agriculture. Subsequent posts will be published in this blog from time to time…&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A relative of mine asked me how agriculture came about in the first place. It’s a fair enough question. We’re all so familiar with the concept of farming, that it’s hardly obvious how our distant ancestors moved from hunting and gathering to tilling the hateful earth. Indeed, I don’t (yet) have an answer to my relative’s question, but I thought I should start putting one together. And to avoid anything so strenuous as making a plan, I’ve decided to write these “Origins” in the order that things come to my attention, rather than the order in which they happened… not least because the chronology of early farming might prove to be a little tricky.&lt;/p&gt;
 
@@ -246,7 +412,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 &lt;p&gt;I’m not a prehistorian, so I don’t feel qualified to comment too specifically on this paper. But I did find it fascinating. A relatively simple methodology (collecting figures and tracing patterns) has shown intriguing, unexpected results. This aspect particularly appeals to me, because it’s not unlike my own research. Archaeobotany so often languishes in specialist appendices of site reports with little attention to its (potentially very great) significance, so it’s pleasing to see plant remains taking centre stage in this article. But as the authors stress in their conclusion, the result is a very broad picture – broad in terms of geography and chronology – and of course it’s possible that the overall patterns may change considerably as more data become available. Even so, perhaps my favourite conclusion is this one (p.720):&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;…the paper demonstrates the limitations of using traditional period divisions and highlights the need to escape the tyranny of the ‘Neolithic’ label, and its assumption of unchanging village farmers. &lt;/p&gt;
+  &lt;p&gt;…the paper demonstrates the limitations of using traditional period divisions and highlights the need to escape the tyranny of the ‘Neolithic’ label, and its assumption of unchanging village farmers.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;A good point well made. I like period divisions as much as the next archaeologist – but we shouldn’t let them get the upper hand! Food for thought indeed…&lt;/p&gt;
@@ -255,9 +421,9 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 
 &lt;p&gt;References&lt;/p&gt;
 
-&lt;p&gt;Stevens, C. &amp;amp; Fuller, D. (2012). &amp;#39;Did Neolithic farming fail? The case for a Bronze Age agricultural revolution in the British Isles&amp;#39;, &lt;em&gt;Antiquity&lt;/em&gt; 86, 707-722.&lt;/p&gt;
+&lt;p&gt;Stevens, C. &amp;amp; Fuller, D. (2012). ‘Did Neolithic farming fail? The case for a Bronze Age agricultural revolution in the British Isles’, &lt;em&gt;Antiquity&lt;/em&gt; 86, 707-722.&lt;/p&gt;
 
-&lt;p&gt;Image credit: &amp;#39;Stonehenge&amp;#39;, &lt;a href=&quot;https://www.flickr.com/photos/ianan/4909120122/in/photolist-8tNwo7-fpPF42-9XAHSk-8YhAZo-dMd56j-dM7up2-9DpsQM-6ZVLm4-pmC8dg-3qseBd-4zbFfQ-nLnqdz-6igADe-4p5dAH-68NM4k-aaNBCk-dZ21Bu-obn5TU-jHGKT5-fq4X1w-5immPU-xJHgBa-63Eu64-6yao4i-8Ukdtd-pmkXAP-7UftvE-5u9Vfd-8cb1Ya-jHHsno-aZ7hGt-aZ7hm2-jHHAPJ-jHEydM-3qnQtD-aZ7hbP-aZ7gw2-fpC2FA-aZ7ffi-aZ7f6i-aZ7fSX-aZ7gbP-8Ukc4E-j7d4MR-6yBdaS-uTXcur-dxVdYM-5VhP5Y-bvswrs-fGAr81&quot;&gt;Ianan&lt;/a&gt;. Creative commons license.&lt;/p&gt;
+&lt;p&gt;Image credit: ‘Stonehenge’, &lt;a href=&quot;https://www.flickr.com/photos/ianan/4909120122/in/photolist-8tNwo7-fpPF42-9XAHSk-8YhAZo-dMd56j-dM7up2-9DpsQM-6ZVLm4-pmC8dg-3qseBd-4zbFfQ-nLnqdz-6igADe-4p5dAH-68NM4k-aaNBCk-dZ21Bu-obn5TU-jHGKT5-fq4X1w-5immPU-xJHgBa-63Eu64-6yao4i-8Ukdtd-pmkXAP-7UftvE-5u9Vfd-8cb1Ya-jHHsno-aZ7hGt-aZ7hm2-jHHAPJ-jHEydM-3qnQtD-aZ7hbP-aZ7gw2-fpC2FA-aZ7ffi-aZ7f6i-aZ7fSX-aZ7gbP-8Ukc4E-j7d4MR-6yBdaS-uTXcur-dxVdYM-5VhP5Y-bvswrs-fGAr81&quot;&gt;Ianan&lt;/a&gt;. Creative commons license.&lt;/p&gt;
 </content>
  </entry>
  
@@ -266,18 +432,18 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
    <link href="http://roundedglobe.github.io/can't-disrupt-this/"/>
    <updated>2016-01-15T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/can't-disrupt-this</id>
-   <content type="html">&lt;h2&gt;Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business&lt;/h2&gt;
+   <content type="html">&lt;h1 id=&quot;elsevier-and-the-252-billion-dollar-a-year-academic-publishing-business&quot;&gt;# Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business&lt;/h1&gt;
 
 &lt;p&gt;Twenty years ago (&lt;a href=&quot;http://www.scribd.com/doc/292346391/Forbes-Elsevier-1995&quot;&gt;December 18, 1995&lt;/a&gt;), Forbes predicted academic publisher Elsevier’s relevancy and life in the digital age to be short lived. In an article entitled “The internet’s first victim,” journalist John Hayes highlights the technological imperative coming toward the academic publisher’s profit margin with the growing internet culture and said, “Cost-cutting librarians and computer-literate professors are bypassing academic journals — bad news for Elsevier.” After publication of the article, investors seemed to heed Hayes’s rationale for Elsevier’s impeding demise. Elsevier stock fell 7% in two days to $26 a share.&lt;/p&gt;
 
 &lt;p&gt;As the smoke settles twenty years later, one of the clear winners on this longitudinal timeline of innovation is the very firm that investors, journalists, and forecasters wrote off early as a casualty to digital evolution: Elsevier. Perhaps to the chagrin of many academics, the publisher has actually not been bruised nor battered. In fact, the publisher’s health is stronger than ever. As of 2015, the academic publishing market that Elsevier leads has an annual revenue of &lt;a href=&quot;http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf&quot;&gt;$25.2 billion&lt;/a&gt;. According to its 2013 financials &lt;a href=&quot;http://poeticeconomics.blogspot.co.il/2014/03/elsevier-stm-publishing-profits-rise-to.html&quot;&gt;Elsevier&lt;/a&gt; had a higher percentage of profit than &lt;a href=&quot;http://www.apple.com/pr/library/2013/10/28Apple-Reports-Fourth-Quarter-Results.html&quot;&gt;Apple, Inc.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Schmitt1.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Schmitt1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Brian Nosek, a professor at the University of Virginia and director of the Center for Open Science, says, “Academic publishing is the perfect business model to make a lot of money. You have the producer and consumer as the same person: the researcher. And the researcher has no idea how much anything costs.” Nosek finds this whole system is designed to maximize the amount of profit:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I, as the researcher, produce the scholarship and I want it to have the biggest impact possible and so what I care about is the prestige of the journal and how many people read it. Once it is finally accepted, since it is so hard to get acceptances, I am so delighted that I will sign anything — send me a form and I will sign it. I have no idea I have signed over my copyright or what implications that has — nor do I care, because it has no impact on me. The reward is the publication.&lt;/p&gt;
+  &lt;p&gt;I, as the researcher, produce the scholarship and I want it to have the biggest impact possible and so what I care about is the prestige of the journal and how many people read it. Once it is finally accepted, since it is so hard to get acceptances, I am so delighted that I will sign anything — send me a form and I will sign it. I have no idea I have signed over my copyright or what implications that has — nor do I care, because it has no impact on me. The reward is the publication.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Nosek further explains why researchers are ever supportive by explaining the dedicated loyal customer base mantra, “What do you mean libraries are canceling subscriptions to this? I need this. Are you trying to undermine my research?”&lt;/p&gt;
@@ -287,7 +453,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 &lt;p&gt;Heather Morrison, a professor in the School of Information Studies at the University of Ottawa, unpacks the business model behind academic publisher Springer and says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;If you look at who owns Springer, these are private equity firms, and they have changed owners about five times in the last decade. Springer was owned by the investment group Candover and Cinven who describe themselves as ‘Europe’s largest buy-out firm.’ These are companies who buy companies to decrease the cost and increase the profits and sell them again in two years. This is to whom we scholars are voluntarily handing our work. Are you going to trust them? This is not the public library of science. This is not your average author voluntarily contributing to the commons. These are people who are in business to make the most profit.&lt;/p&gt;
+  &lt;p&gt;If you look at who owns Springer, these are private equity firms, and they have changed owners about five times in the last decade. Springer was owned by the investment group Candover and Cinven who describe themselves as ‘Europe’s largest buy-out firm.’ These are companies who buy companies to decrease the cost and increase the profits and sell them again in two years. This is to whom we scholars are voluntarily handing our work. Are you going to trust them? This is not the public library of science. This is not your average author voluntarily contributing to the commons. These are people who are in business to make the most profit.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Should a consumer heed Morrison’s rationale and want to look deeper into academic publishers cost structure for themselves one is met with a unique situation: the pricing lists for journals do not exist. “It’s because they negotiate individually with each institution and they often have non-disclosure agreements with those institutions so they can’t bargain with knowing what others paid,” says Martin Eve, founder of the Open Library of the Humanities.&lt;/p&gt;
@@ -295,12 +461,12 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 &lt;p&gt;In addition to a general lack of pricing indexes, the conversation around the value of a publication is further complicated by long-term career worth. David Sundahl, a senior research fellow at the Clayton Christensen Institute for Disruptive Innovation, says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;We actually understand how money passed through to artists who wrote music and authors who wrote books — but it is not clear how the value of a publication in a top tier journal will impact someone’s career. Unlike songs or books where the royalty structure is defined, writing a journal article is not clear and is dependent not on the people who consume the information but rather deans and tenure committees.&lt;/p&gt;
+  &lt;p&gt;We actually understand how money passed through to artists who wrote music and authors who wrote books — but it is not clear how the value of a publication in a top tier journal will impact someone’s career. Unlike songs or books where the royalty structure is defined, writing a journal article is not clear and is dependent not on the people who consume the information but rather deans and tenure committees.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Schmitt2.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Schmitt2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;Disruption Doable?&lt;/h2&gt;
+&lt;h2 id=&quot;disruption-doable&quot;&gt;Disruption Doable?&lt;/h2&gt;
 
 &lt;p&gt;It is precisely the prior lack of a pricing and value barometer that leads to the complexities associated with disrupting the main players in academic publishing. “Adam Smith’s invisible hand works to lower prices and increase productivity but it can only do so when valuation or pricing is known and the same thing is true for disruption. If you don’t know how to value something, you actually don’t have tiers of a market,” says Sundahl.&lt;/p&gt;
 
@@ -310,7 +476,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 
 &lt;p&gt;The prior is exactly what large entities like the Bill and Melinda Gates Foundation or perhaps even top tier research one (R1) universities can’t do. “They have to play the game the way the winners are already playing it. Incumbents almost always win under those conditions,” says Sundahl. And to further complicate matters, junior colleges and community colleges, which perhaps would represent fertile grounds to be served by a newer, “basement market” entrant, may be less likely to spearhead this new outlet themselves due increasing government constraints focused nearly exclusively on job placement and starting salaries in lieu of a research-based, theoretical curriculum.&lt;/p&gt;
 
-&lt;h2&gt;Open Access Packs a Punch&lt;/h2&gt;
+&lt;h2 id=&quot;open-access-packs-a-punch&quot;&gt;Open Access Packs a Punch&lt;/h2&gt;
 
 &lt;p&gt;Driven by the lopsided power structure the move toward open access and the unrestricted access to academic information has been exponentially growing. Perhaps it is, itself, a “basement market” for leveling the academic publication environment and creating a market where respect and credibility can be fostered, grown and transitioned into the existing academic prestige, merit, and tenure conversations.&lt;/p&gt;
 
@@ -323,18 +489,20 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 &lt;p&gt;Rooryck finds the move toward broad open access a natural progression and says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;The knowledge we produce as academics and scientists should be publicly available in the same way we have a company that delivers water to our faucets and electricity to our home. These are things we have a right to. Public knowledge and education is a human right and it should not come with a profit tag of 35%.&lt;/p&gt;
+  &lt;p&gt;The knowledge we produce as academics and scientists should be publicly available in the same way we have a company that delivers water to our faucets and electricity to our home. These are things we have a right to. Public knowledge and education is a human right and it should not come with a profit tag of 35%.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Although it appears open access has the ability to simultaneously diffuse academic knowledge to a larger body of readers and cut costs significantly, many feel that the for profit academic publishers are still situated to continue into the near future. Joseph says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I think the play for most smart commercial publishers is to try to preserve the current environment for as long as they can: delay the policy changes, delay the culture changes and to be working on things like tools and services applying to aggregation of data, where they are then embedding themselves more deeply in the workflow of researchers and becoming essential to researchers in a different way.&lt;/p&gt;
-
-&lt;p&gt;If you are no longer essential to researchers in the, ‘you have to publish in my journal in order to get tenure and promotion’ what do they replace that with? I think the smart publishing companies like Elsevier, like Springer, who are very smart in that regard, have been thinking about where they can go to be playing a role of continuing to be seen as essential by the research community once they are no longer playing the role of providing assessment.&lt;/p&gt;
+  &lt;p&gt;I think the play for most smart commercial publishers is to try to preserve the current environment for as long as they can: delay the policy changes, delay the culture changes and to be working on things like tools and services applying to aggregation of data, where they are then embedding themselves more deeply in the workflow of researchers and becoming essential to researchers in a different way.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2&gt;Onward and Upward&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If you are no longer essential to researchers in the, ‘you have to publish in my journal in order to get tenure and promotion’ what do they replace that with? I think the smart publishing companies like Elsevier, like Springer, who are very smart in that regard, have been thinking about where they can go to be playing a role of continuing to be seen as essential by the research community once they are no longer playing the role of providing assessment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;onward-and-upward&quot;&gt;Onward and Upward&lt;/h2&gt;
 
 &lt;p&gt;“In the US Congress we have been finally making &lt;a href=&quot;http://news.sciencemag.org/policy/2015/07/senate-panel-approves-public-access-bill&quot;&gt;progress&lt;/a&gt; with the Fair Access to Science and Technology Research (FASTR) bill. It moved through the committee it was referred to in the Senate and is poised to move out of the Senate and potentially be considered by the House and hopefully pass. Ten years ago, I would have said we didn’t have a chance to do a stand-alone bill,” says Joseph.&lt;/p&gt;
 
@@ -345,7 +513,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 &lt;p&gt;Nosek is optimistic about the evolution of technology in open science and says, “There are a lot of startups going at different parts of the research life cycle. Whether it is publication and what a publication means, or looking at full articles and whether you can make articles convey information in smaller bite size pieces.” Nosek tells me that there are so many solutions happening in research right now and mentions it is hard to judge what the true solutions will look like:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I sometimes think some of the ideas haven’t a chance, but what do I know? I could be completely wrong about it. And that is the whole point — do some experimentation and try out ideas. And the fact is there are a lot of people who see what the problems are and have a unique sense of a potential solution — it is a very lively time to try out different answers.&lt;/p&gt;
+  &lt;p&gt;I sometimes think some of the ideas haven’t a chance, but what do I know? I could be completely wrong about it. And that is the whole point — do some experimentation and try out ideas. And the fact is there are a lot of people who see what the problems are and have a unique sense of a potential solution — it is a very lively time to try out different answers.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Time will tell if open access will be the needed disruption to allow the academic environment to right itself or if a new market emerges from startup incubators like the Center for Open Science. Regardless of how the future vision is realized, most in the academic community hope that the new iteration of scholarly articles and publishing will do more good toward humankind than that of a hefty profit margin.&lt;/p&gt;
@@ -359,7 +527,7 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
    <link href="http://roundedglobe.github.io/a-view-from-Jerusalem/"/>
    <updated>2016-01-08T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/a-view-from-Jerusalem</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Welcome to the Rounded Globe blog! Our first post is an abridged version of Prof. Guy Stroumsa&amp;#39;s closing remarks at a conference held in Jerusalem earlier this month (January 2016). A scholar of comparative religion, Professor Stroumsa discussed the duty of scholarly subsversion. Speaking from the heart of a conflict, Stroumsa calls on intellectuals to step beyond aseptic seminar rooms into the wider world around them: a call to which we at Rounded Globe are deeply sympathetic.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Welcome to the Rounded Globe blog! Our first post is an abridged version of Prof. Guy Stroumsa’s closing remarks at a conference held in Jerusalem earlier this month (January 2016). A scholar of comparative religion, Professor Stroumsa discussed the duty of scholarly subsversion. Speaking from the heart of a conflict, Stroumsa calls on intellectuals to step beyond aseptic seminar rooms into the wider world around them: a call to which we at Rounded Globe are deeply sympathetic.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;For me, a &lt;em&gt;révolutionnaire manqué&lt;/em&gt;, the comparative study of religions and their cohort of dreams of transformations, of patterns of mutations, both within societies and inside the self, has always represented a deeply subversive activity. I wish to offer here a midrashic reflection of sorts on subversion as an intellectual and moral duty: that of refusing to lie on the Procrustean beds prepared for us.&lt;/p&gt;
 
@@ -383,9 +551,9 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
 
 &lt;p&gt;It is certainly important, and tragically fascinating, to study the sinuous paths through which religious tradition and cultural legacy can - and do - degenerate into such lunacy. This urgent task is that of historians of religion. But it is not our only task, nor is it our most immediate one. If we wish to avoid what might soon lead to nothing less than a conflict of world dimensions, we must also fight the present neo-messianic madness urgently, and furiously. When fair is foul, and foul is fair, civic courage meets intellectual duty, and intellectual courage means civic duty. The Hebrew University of Jerusalem, its Faculty of Humanities, and its students of religion, must be at the front line in this subversive war against the murderous folly threatening our society and our humanity.&lt;/p&gt;
 
-&lt;p&gt;Text: &amp;#39;Concluding Remarks&amp;#39; to &amp;#39;Upholding Scripture, Rejecting Scripture: Strategies of Religious Subversion: a Conference Celebrating the Work of Guy G. Stroumsa&amp;#39;, Hebrew University of Jerusalem and Israel Academy of Sciences and Humanities, Jerusalem, 4-5 January 2016; read at the Israel Academy, 5 January 2016.&lt;/p&gt;
+&lt;p&gt;Text: ‘Concluding Remarks’ to ‘Upholding Scripture, Rejecting Scripture: Strategies of Religious Subversion: a Conference Celebrating the Work of Guy G. Stroumsa’, Hebrew University of Jerusalem and Israel Academy of Sciences and Humanities, Jerusalem, 4-5 January 2016; read at the Israel Academy, 5 January 2016.&lt;/p&gt;
 
-&lt;p&gt;Header Image: &amp;#39;Coexist Jerusalem: Tunnel near Gaza Street, Jerusalem&amp;#39; by &lt;a href=&quot;https://www.flickr.com/photos/zeevveez/2573448048/&quot;&gt;zeevveez&lt;/a&gt;. Creative commons license.&lt;/p&gt;
+&lt;p&gt;Header Image: ‘Coexist Jerusalem: Tunnel near Gaza Street, Jerusalem’ by &lt;a href=&quot;https://www.flickr.com/photos/zeevveez/2573448048/&quot;&gt;zeevveez&lt;/a&gt;. Creative commons license.&lt;/p&gt;
 </content>
  </entry>
  
