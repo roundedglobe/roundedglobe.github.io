@@ -4,7 +4,7 @@
  <title>Rounded Bloge</title>
  <link href="http://roundedglobe.github.io/atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/"/>
- <updated>2016-02-28T17:45:35+00:00</updated>
+ <updated>2016-02-28T20:22:49+00:00</updated>
  <id>http://roundedglobe.github.io</id>
  
  <author>
@@ -13,6 +13,73 @@
  
  </author>
 
+ 
+ <entry>
+   <title>Unix, GNU and Linux</title>
+   <link href="http://roundedglobe.github.io/unix/"/>
+   <updated>2016-02-28T20:22:49+00:00</updated>
+   <id>http://roundedglobe.github.io/unix</id>
+   <content type="html">&lt;p&gt;Unix is an &lt;a href=&quot;https://en.wikipedia.org/wiki/Operating_system&quot;&gt;operating system&lt;/a&gt; (OS) invented in 1969 at Bell Labs by &lt;a href=&quot;https://en.wikipedia.org/wiki/Ken_Thompson&quot;&gt;Ken Thompson&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Dennis_Ritchie&quot;&gt;Dennis Ritchie&lt;/a&gt; and others. And — due to the flexibility afforded by its modular, collaborative approach to computing — over 40 years later, Unix and its descendants &lt;a href=&quot;https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Market_share_by_category&quot;&gt;power the overwhelming majority of the world’s computing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The family of operating systems which descend from Unix are referred to collectively as “*nix”.&lt;/p&gt;
+
+&lt;p&gt;Sites like Google, Facebook, Twitter and the vast majority of websites were built on and run on *nix. Apple’s iPhones, iPads and iPods, Android smartphones and tablets, smart TVs, refrigerators, cameras, cars, watches, set-top boxes — they all run *nix. Unix and its offspring power everything from the &lt;a href=&quot;https://en.wikipedia.org/wiki/Raspberry_Pi&quot;&gt;Raspberry Pi&lt;/a&gt; to (all of) the world’s most powerful supercomputers.&lt;/p&gt;
+
+&lt;p&gt;The digital age was built on Unix and its descendants. So how did this happen?&lt;/p&gt;
+
+&lt;p&gt;In the early days of computing, software was shared freely amongst its users and authors, who were often the same people. If you wrote a software tool to perform a particular task you would share it with anyone who wanted it. If I improved that tool then I would share my changes with you and with everyone else. Since this benefited everyone, why would any of us behave any differently?&lt;/p&gt;
+
+&lt;p&gt;This culture of sharing and co-operating influenced the shape of early software, encouraging the production of small, simple programs intended to be used together to perform complex tasks — rather than complex, monolithic programs that tried to do everything. Smaller, simpler programs were easier to maintain, share, re-use and modify, and could be plugged together to perform complex tasks. Improvements to one small component would thus benefit &lt;em&gt;all&lt;/em&gt; of the complex applications of which that small program was a part — helping oneself helped others.&lt;/p&gt;
+
+&lt;p&gt;Bell Labs is a research and development facility which, during the time of Unix’s development, was owned by AT&amp;amp;T and was famous for encouraging undirected, open-ended research. Important inventions and developments that came out of Bell Labs include the transistor, cellular telephony, solar cells, practical lasers, communication satellites, the touch-tone telephone and, of course, Unix. &lt;a href=&quot;https://en.wikipedia.org/wiki/Brian_Kernighan&quot;&gt;Brian Kernighan&lt;/a&gt;, one of the developers of Unix, talks about his time at Bell Labs in the video below.&lt;/p&gt;
+
+&lt;div class=&quot;ytvid&quot;&gt;
+&lt;iframe class=&quot;video&quot; src=&quot;https://www.youtube.com/embed/QFK6RG47bww&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Unix, born out of this culture of sharing and co-operation where a collaborative approach was &lt;em&gt;assumed&lt;/em&gt;, embodied what is now referred to as ‘The Unix Philosophy’. The most well-known statement of this philosophy, by &lt;a href=&quot;https://en.wikipedia.org/wiki/Douglas_McIlroy&quot;&gt;Doug McIlroy&lt;/a&gt;, goes like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;McIlroy adds:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The notion of “intricate and beautiful complexities” is almost an oxymoron. Unix programmers vie with each other for “simple and beautiful” honours — a point that’s implicit in these rules, but is well worth making overt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This insistence on simple elegance, modularity, co-operation and text-as-the-universal-interface is a large part of what set Unix apart and is, along with various technical attributes, what has been passed on to Unix’s descendants.&lt;/p&gt;
+
+&lt;p&gt;Unix gained widespread use through the 70s and 80s, particularly in academic and commercial settings but was not really suitable for individual use for a couple of reasons: Firstly, Unix was designed primarily for mainframes and there was little interesting amongst its academic and commercial users in transferring it to home computers. Secondly, because AT&amp;amp;T were, as a regulated monopoly, not allowed to sell software, licensing was difficult.&lt;/p&gt;
+
+&lt;p&gt;As the personal computer saw broad adoption, the rise of proprietary, commercial software, such as Microsoft’s DOS, eroded the culture of early computing — sharing proprietary software is illegal and modifying it is impossible since the source code is not available. As programs could no longer share and build upon each others’ functionality, software became large, complex and monolithic by default.&lt;/p&gt;
+
+&lt;p&gt;In 1983, &lt;a href=&quot;https://rms.sexy/&quot;&gt;Richard Stallman&lt;/a&gt;, an artificial intelligence researcher at the Massachusetts Institute of Technology, began the GNU project, the aim of which was to create an entirely free version of the Unix operating system (GNU stands for “GNU’s not Unix”). “Free”, in this context, means “&lt;a href=&quot;http://www.gnu.org/philosophy/free-sw.en.html&quot;&gt;free as in freedom, not free as in beer&lt;/a&gt;”, a notion circumscribed by what Stallman called ‘the Four Freedoms’:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The freedom to run the program as you wish, for any purpose (freedom 0).&lt;/li&gt;
+  &lt;li&gt;The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.&lt;/li&gt;
+  &lt;li&gt;The freedom to redistribute copies so you can help your neighbor (freedom 2).&lt;/li&gt;
+  &lt;li&gt;The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In order to ensure that these freedoms remained intact as software was modified and shared, the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.en.html&quot;&gt;GNU General Public License&lt;/a&gt; (GPL) was created. Similar to the &lt;a href=&quot;https://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; license used on &lt;em&gt;Rounded Globe&lt;/em&gt;, the GPL employs a &lt;a href=&quot;https://en.wikipedia.org/wiki/Copyleft&quot;&gt;copyleft&lt;/a&gt; mechanism that ensures that no one can close the software down and/or make a proprietary version — the software will be free for everyone, forever, for any purpose.&lt;/p&gt;
+
+&lt;p&gt;In 1991, &lt;a href=&quot;https://en.wikipedia.org/wiki/Linus_Torvalds&quot;&gt;Linus Torvalds&lt;/a&gt;, a computer science student at the University of Helsinki, created the Linux kernel because he wanted Unix on his personal home computer — the kernel is the ‘bottom layer’ of the operating system; it is the intermediary between other software and the hardware — the final core component that the GNU project lacked. The resulting operating system — a complete, free Unix — is called GNU/Linux, though it is most often just referred to as Linux.&lt;/p&gt;
+
+&lt;p&gt;Linux exists today as a free universal operating system that embodies the continuation of the culture of early computing — it is produced, maintained and distributed by thousands of people all around the world. It powers the internet and has allowed companies like Google, Twitter and Facebook to create businesses without being crippled by software licensing costs (there are none). It runs smartphones, laptops, tablets, Kindles and watches. It’s allowed the Raspberry Pi to bring accessible, malleable computing to classrooms and individuals without licensing costs. It runs the computers at &lt;a href=&quot;https://en.wikipedia.org/wiki/CERN&quot;&gt;CERN&lt;/a&gt;, it’s on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Curiosity_%28rover%29&quot;&gt;Curiosity Mars rover&lt;/a&gt;, it’s aboard the &lt;a href=&quot;https://en.wikipedia.org/wiki/International_Space_Station&quot;&gt;International Space Station&lt;/a&gt; and it runs &lt;a href=&quot;http://www.techrepublic.com/article/how-munich-rejected-steve-ballmer-and-kicked-microsoft-out-of-the-city/&quot;&gt;Munich&lt;/a&gt;. Unless you live in a cave, you use Linux many times every day.&lt;/p&gt;
+
+&lt;p&gt;Perhaps Linux’s most surprising achievement, though, is getting huge, commercial entities like Google, Samsung, IBM, Toyota and countless others to work collaboratively. They all contribute — through paying developers, sponsorship and other mechanisms — to the Linux kernel and other parts of the operating system. And when they improve Linux for themselves they improve it for everyone else — even their direct competitors.&lt;/p&gt;
+
+&lt;p&gt;The one arena of computing where *nix &lt;em&gt;doesn’t&lt;/em&gt; dominate is, of course, desktop operating systems (i.e. desktop PCs and laptops) where Microsoft’s Windows holds sway. So, while Unix and its progeny have very much defined and shaped the technology of the world in which we live, and virtually &lt;em&gt;every&lt;/em&gt; computer user interacts with it in some way on a daily basis, most everyday computer users are largely unacquainted with it. If you’d like to try Linux out on &lt;em&gt;your&lt;/em&gt; desktop or laptop computer then &lt;a href=&quot;http://www.ubuntu.com/desktop&quot;&gt;Ubuntu&lt;/a&gt; or &lt;a href=&quot;https://www.opensuse.org/&quot;&gt;OpenSUSE&lt;/a&gt; are good places to start.&lt;/p&gt;
+
+&lt;div class=&quot;ytvid&quot;&gt;
+&lt;iframe class=&quot;video&quot; src=&quot;https://www.youtube.com/embed/SYRlTISvjww&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Agricultural Strategy</title>
