@@ -2,37 +2,55 @@
 published: false
 author: th
 image: th_header.jpg
-description: "Bilbo's Pity: Aristotle, Tolkien, and Tragedy"
+description: "The murderous hate of Mordor"
 ---
-*To celebrate Tolkien reading day, Tom Hillman discusses X*
+*To celebrate Tolkien reading day, Tom Hillman discusses the Old English word* Morþorhete *and the Spirit of Mordor*
 
->Bilbo almost stopped breathing, and went stiff himself. He was desperate. He must get away, out of this horrible darkness, while he had any strength left. He must fight. He must stab the foul thing, put out its eyes, kill it. It meant to kill him. No, not a fair fight. He was invisible now. Gollum had no sword. Gollum had not actually threatened to kill him, or tried to yet. And he was miserable, alone, lost. A sudden understanding, a pity mixed with horror, welled up in Bilbo’s heart: a glimpse of endless unmarked days without light or hope of betterment, hard stone, cold fish, sneaking and whispering. All these thoughts passed in a flash of a second. He trembled. And then quite suddenly in another flash, as if lifted by a new hope and resolve, he leaped.
->*The Hobbit*
+The day after Sam rescues Frodo from the tower of Cirith Ungol, two orcs, an Uruk and a smaller tracker, nearly catch them, but a fight breaks out between them:
 
-I've spent a lot of time thinking about this passage. Early on, in one of those how-did-I-never-notice-this-before moments, I found myself smiling at the words 'a sudden understanding, a pity mixed with horror, welled up in Bilbo's heart,' and thinking that Aristotle would have been pleased with this moment since it echoes his own thoughts on Tragedy in *The Poetics* [1452a-1452b](https://en.wikipedia.org/wiki/Corpus_Aristotelicum#Bekker_numbers):
+>The big orc, spear in hand, leapt after him. But the tracker, springing behind a stone, put an arrow in his eye as he ran up, and he fell with a crash. The other ran off across the valley and disappeared.
 
->Tragedy is an imitation not just of a complete action, but of events that evoke pity and fear. These effects occur above all when things come about unexpectedly but at the same time consequentially.<sup>1</sup> This will produce greater astonishment than if they come about spontaneously or by chance – for even chance events are more astonishing when they seem to have happened for a purpose..... 
+>For a while the hobbits sat in silence. At length Sam stirred. 'Well I call that neat as neat,' he said. 'If this nice friendliness would spread about in Mordor, half our trouble would be over.'
 
->Stories can be classified as simple or complex.... I call it complex if the change of fortune involves a reversal or a discovery or both.... Reversal is a change of direction in the course of events.... For instance, in *Oedipus* a messenger comes to bring Oedipus good news and rid him of his fears about his mother, but by revealing his true identity he produces the opposite effect.... Discovery, as the term implies, is a change from ignorance to knowledge, and thus to either love or hate, on the part of those destined for either good or bad fortune.  Discovery takes its finest form when it coincides with reversal, as in *Oedipus*.... Reversal and discovery together will evoke either pity or fear – just the kind of actions of which, according to our basic principle, tragedy offers an imitation – and will serve to bring about the happy or unhappy ending.
->Translation: Kenny, 29-30
+>'Quietly, Sam,' Frodo whispered. 'There may be others about. We have evidently had a very narrow escape, and the hunt was hotter on our tracks than we guessed. But that is the spirit of Mordor, Sam; and it has spread to every corner of it. Orcs have always behaved like that, or so all tales say, when they are on their own. But you can't get much hope out of it. They hate us far more, altogether and all the time. If those two had seen us, they would have dropped all their quarrel until we were dead.'
 
-While I imagine the Inklings probably enjoyed a laugh over *The Hobbit* passage, Tolkien, though obviously quite clever, was never about cleverness for cleverness' sake.  And this moment is one of the most important turning points in the entire Tale of Middle-earth, when the pity of Bilbo rules the fate of many.  So clearly the echoes of Aristotle were not merely some donnish joke to be relished over a pint at the Bird and Baby.  What's going on?
+>(*Return of the King*, 'The Land of Shadow')
 
-Tolkien is not of course writing Tragedy. Faërie has a Poetics of its own, and Tolkien wrote the book on the subject.  So we should not imagine that Tolkien is in any way following Aristotle.  Yet the points of contact here – fear/horror, pity, sudden understanding/discovery – are too salient to be overlooked or dismissed. Even Aristotle's remark that 'chance events are more astonishing when they seem to have happened for a purpose' itself becomes astonishing when seen in the light of Gandalf's statement in *The Fellowship of the Ring* ('The Shadow of the Past') that 'Bilbo was *meant* to find the Ring, and *not* by its maker'.
+As is often the case with Tolkien a glance at *Beowulf* can prove interesting. For in line 1105 we encounter a word that suits the orcs and Frodo's description of them perfectly.  It is *morþorhete*, a compound of *morþor*, whose primary meaning is 'murder' and from which of course derives 'Mordor', and *hete*, 'hate.' *Morþorhete*, occurring only here in extant Old English, denotes a murderous or deadly hatred. Keep in mind, moreover, that every time we see orcs interacting with each other, whether they are of different kinds, as here, of different loyalties (*Two Towers*, 'The Uruk-hai'), or of different commands (*Two Towers*, 'The Choices of Master Samwise'; *Return of the King*, 'The Tower of Cirith Ungol'), they always come to blows. So the word is generally applicable to orcs.
 
-But what is most remarkable is the reversal which we find in Tolkien.  As in *Oedipus* reversal follows hard upon discovery, but in Sophocles Tragedy is revealed. In *The Hobbit* Tragedy is averted by Bilbo's discovery, by his 'sudden understanding' of Gollum, which evokes both pity and fear.  As I have mentioned [elsewhere](http://alasnotme.blogspot.co.il/2014/12/two-observations-on-gollums-first.html), this is also precisely the moment when Bilbo first sees Gollum as a person, a 'he,' and not a thing, an 'it.'  For an instant Bilbo is in a sense both tragic audience and tragic protagonist at once, and his discovery reverses his course from murder to mercy and from despair to hope. And, as if to underline the point that Tolkien is not writing Tragedy, it is Bilbo's sense of justice – which Aristotle says the ideal tragic protagonist should not excel in<sup>2</sup> – that buys him the time to see Gollum as deserving of pity and mercy.
+In *Beowulf* the word appears in the account of the oath that was meant to restore peace after the attack on Finnsburgh:
 
-Bilbo of course would be ill suited to be the protagonist of the kind of Tragedy Aristotle describes.  The House of Bungo, mercifully, had little in common with the Houses of Atreus or Laius.  And to my knowledge no tragic protagonist was ever likened to a grocer, not even by his most implacable foe.  But Aristotle's thinking on plot and character, on recognition and reversal, has been seen to have some applicability to other genres before now.<sup>3</sup>  So it is hardly surprising that, with Pity and Fear so much and so importantly in play, the poetics of Faërie and Tragedy brushed up against each other here.
+>Ða hie getruwedon    on twa healfa                        1095
+>fæste frioðuwære.    Fin Hengeste         
+>elne unflitme    aðum benemde
+>þæt he þa wealafe    weotena dome
+>arum heolde,    þæt ðær ænig mon
+>wordum ne worcum    wære ne bræce,                   1100
+>(ne) þurh inwitsearo    æfre gemænden,
+>ðeah hie hira beaggyfan    banan folgedon,
+>ðeodenlease,    þa him swa geþearfod wæs.
+>Gyf þonne Frysna hwylc    frecnen spræce
+>ðæs morþorhetes    myndgiend wære,                    1105
+>þonne hit sweordes ecg    syððan scede.
 
-**Notes**
+>Then they concluded strong terms
+>Of peace for both sides. Finn declared
+>On oath to Hengest, nobly, with no dispute,
+>That he, by the authority of his council,
+>And with acts of kindness, would rule
+>The sad remnant, that neither by word
+>Nor by deed would any man break the accord,
+>Nor through malice would they ever complain --
+>Though, kingless now, they followed the killer
+>Of their generous lord: it had been
+>Necessary for them. Then if any of the Frisians
+>With reckless speech called to mind
+>Their murderous hate, a sword would settle it.<sup>1</sup>
+	 
+The connection here is not to be found in the details of the story of Finn and Hengest, but in the *morþorhete* that remains alive just below the surface, so ready to break forth that only the threat of violence can suppress it even temporarily.  In the end the terms do not prove strong enough, any more for Finn and Hengest than for the orcs Frodo and Sam see in Mordor.  A passion so strong can unite or divide.
 
-<sup>1</sup> 'Consequentially' might be a bit compressed for ready understanding. A more literal rendering of the Greek text (ὅταν γένηται παρὰ τὴν δόξαν δι᾽ ἄλληλα) would be: 'when one thing happens on account of another contrary to expectation.'  That is, a causal link is revealed that had not previously been suspected.  Aristotle, *Poetics*, transl. Anthony Kenny (Oxford 2013) 29.
+***
 
-<sup>2</sup> 'We are left, then, with the person in between: a man not outstanding in virtue or justice, who falls into adversity not through vice or depravity but because he errs in some way....' (1453a; Kenny 32).  Pardon me for geeking out here for a moment.  The words I have struck through need to be removed as they are clearly a relic of an earlier rendering of this sentence which was missed in editing and proofreading.  Aside from the difficulty they would bring to construing the sentence if they were allowed to remain, they are present only once in the Greek: 'Ὁ μεταξὺ ἄρα τούτων λοιπός. Ἔστι δὲ τοιοῦτος ὁ μήτε ἀρετῇ διαφέρων καὶ δικαιοσύνῃ μήτε διὰ κακίαν καὶ μοχθηρίαν μεταβάλλων εἰς τὴν δυστυχίαν ἀλλὰ δι᾽ ἁμαρτίαν τινά.'
-
-Compare, e.g., the earlier translation of [Hamilton Fyfe](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0086.tlg034.perseus-eng1:1453a): 'There remains then the mean between these. This is the sort of man who is not pre-eminently virtous and just, and yet it is through no badness or villainy of his own that he falls into the fortune, but rather through some flaw in him...'
-
-<sup>3</sup> Dorothy L. Sayers, for one, delivered a lecture 'Aristotle on Detective Fiction,' at Oxford in 1935, which Professor Kenny has included in his edition (79-88).
-
-
+<sup>1</sup> The translation offered above is mine, based on the text and notes in Klaeber's *Beowulf* (Toronto, 2014). It may not be elegant, but I believe that it is at least not inaccurate. There are, however, points in the Old English that are not entirely clear, but these do not touch the issue of *morþorhete* directly.
+	 
 Image credit: 
