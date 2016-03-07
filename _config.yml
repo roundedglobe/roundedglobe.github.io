@@ -83,7 +83,9 @@ authors:
             Academia.edu: https://independent.academia.edu/KeithTribe
     drew:
         name: Drew
-        bio: "Drew is a co-founder of Rounded Globe and too lazy to enter his details into the author config file. Go figure."
+        bio: "Drew is a co-founder of Rounded Globe. He likes playing computer games, talking about GNU/Linux and intends to take up embroidery."
+        links:
+            Website: http://ludiclinux.com/
     bs:
         name: Beverley Southgate
         bio: "Beverley Southgate is Reader Emeritus in History of Ideas at the University of Hertfordshire, and lives in London. His publications include [*What is History For?*](https://books.google.co.il/books/about/What_is_History_For.html?id=rHXrMbXUsQ8C&redir_esc=y) (London: Routledge, 2005); [*Contentment in Contention: Acceptance versus Aspiration*](http://www.palgraveconnect.com/pc/doifinder/view/10.1057/9780230360884.0001) (Basingstoke: Palgrave Macmillan, 2012); and [*‘A New Type of History’: Fictional proposals for dealing with the past*](https://books.google.co.il/books?id=yjqsCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) (London and New York: Routledge, 2015)."
