@@ -1,10 +1,10 @@
 ---
-published: false
+published: yes
 author: kt
 image: kt_header.jpg
 description: "Reflections on the state of debate on the European Union"
 ---
-*Intellectual historian Keith Tribe offers a British perspective upon the domestic debate over Britexit.*
+*Intellectual historian Keith Tribe offers a domestic perspective upon the current debate over Britexit from the EU.*
 
 I’ve been observing recent political events with a sense of deep-seated dismay.  In Britain, the first half of 2015 was dominated domestically by the looming Scottish Independence referendum; internationally, by the circus of the Greek debt crisis, where Tsipras would agree one thing in Brussels and then go home and disown what he had agreed on TV, as if nobody outside Athens watched Greek TV.
 
