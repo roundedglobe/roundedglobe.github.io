@@ -52,5 +52,3 @@ The connection here is not to be found in the details of the story of Finn and H
 ***
 
 <sup>1</sup> The translation offered above is mine, based on the text and notes in Klaeber's *Beowulf* (Toronto, 2014). It may not be elegant, but I believe that it is at least not inaccurate. There are, however, points in the Old English that are not entirely clear, but these do not touch the issue of *morþorhete* directly.
-	 
-Image credit: 
