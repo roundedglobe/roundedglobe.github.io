@@ -2,7 +2,7 @@
 published: true
 author: th
 image: th_header.jpg
-description: "The murderous hate of orcs and men"
+description: "On murderous hate"
 ---
 *To celebrate Tolkien reading day, Tom Hillman discusses the Old English word* Morþorhete *and the Spirit of Mordor*
 
