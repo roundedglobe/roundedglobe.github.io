@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 author: bs
 image: bs_header.jpg
 description: "On Bryn Hammond's historian"
 ---
-*Beverley Southgate criticizes the representation of the work of the historian in Bryn Hammond's [*Voices from the Twelfth-Century Steppe*](book-link), recently published by Rounded Globe.*
+*Beverley Southgate criticizes the representation of the work of the historian in Bryn Hammond's [*Voices from the Twelfth-Century Steppe*](book-link), recently published by [Rounded Globe](http://roundedglobe.com).*
 
 Bryn Hammond provides a specific study that explicitly raises questions of wider historiographical interest. Her primary concern is to excite more people about what might seem (to a Eurocentric historian) quite an esoteric subject: epic records from the steppes of the Mongol empire. I am certainly not competent to comment on that subject-matter; but the author indicates throughout how her material impinges on the more general question of history’s relationship with fiction – and that is something I discussed in my *History Meets Fiction* (2009), and is a subject that continues to interest me. My main argument here is that Hammond over-estimates the difference between the two genres.
 
