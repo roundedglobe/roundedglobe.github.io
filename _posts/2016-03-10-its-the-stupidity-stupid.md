@@ -3,6 +3,7 @@ published: yes
 author: kt
 image: kt_header.jpg
 description: "Reflections on the state of debate on the European Union"
+title: "It's the Stupidity Stupid"
 ---
 *Intellectual historian Keith Tribe offers a domestic perspective upon the current debate over Britexit from the EU.*
 
