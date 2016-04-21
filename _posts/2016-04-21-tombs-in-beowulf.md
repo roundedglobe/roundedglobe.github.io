@@ -1,6 +1,6 @@
 ---
 published: true
-title: Tombs in Beowulf
+title: "Tombs in Beowulf"
 author: hw
 image: hw_header.jpg
 description: "An archaeological reading of Beowulf"
