@@ -3,6 +3,7 @@ published: true
 author: bhammond
 image: hammond_header.jpg
 description: "What did Chaucer know or care about a Tartar khan at Saray and his court?"
+title: "Chaucer Goes to the Golden Horde"
 ---
 _Today we publish a post by the historical novelist Bryn Hammond, whose [_Voices from the Twelfth-Century Steppe_](http://roundedglobe.com/book/54f6f692a26359d553f3348e/Voices%20from%20the%20Twelfth-Century%20Steppe) is scheduled for publication by Rounded Globe on March 15, 2016._
 
