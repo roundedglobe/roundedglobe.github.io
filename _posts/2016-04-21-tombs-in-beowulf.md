@@ -2,7 +2,7 @@
 published: true
 author: hw
 image: hw_header.jpg
-description: "Tombs in Beowulf"
+description: "Beowulf's Tombs"
 ---
 _Howard M. R. Williams reports on his recent Grosvenor Lunchtime Lecture, organized by the Department of History and Archaeology of Chester University, “Tombs in 'Beowulf'.”_
 
