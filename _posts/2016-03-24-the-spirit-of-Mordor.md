@@ -3,6 +3,7 @@ published: true
 author: th
 image: th_header.jpg
 description: "On murderous hate"
+title: "The Spirit of Mordor"
 ---
 *To celebrate Tolkien reading day, Tom Hillman discusses the Old English word* Morþorhete *and the Spirit of Mordor*
 
