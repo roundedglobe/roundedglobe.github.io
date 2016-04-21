@@ -3,6 +3,7 @@ published: true
 author: rg
 image: rg_header.jpg
 description: "Publish with Rounded Globe"
+title: "Call for Submissions"
 ---
 *Rounded Globe: call for submissions*
 
