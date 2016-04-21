@@ -3,6 +3,7 @@ published: true
 author: ms
 image: ms_header.jpg
 description: "Archaeology as a social science, and its discontents"
+title: "Grand Challenges for Archaeology"
 ---
 _Michael E. Smith's post is part of the [Grand challenges for archaeology blogging carnival]( https://dougsarchaeology.wordpress.com/2016/01/01/the-grand-challenges-for-archaeology-a-blogging-carnival/)._
 
