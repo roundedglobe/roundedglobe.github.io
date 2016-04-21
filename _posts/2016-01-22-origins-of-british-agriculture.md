@@ -3,6 +3,7 @@ published: true
 author: mm
 image: mm_header.jpg
 description: "British farming disappeared in the era when Stonehenge was built"
+title: "Origins of British Agriculture"
 ---
 _The first of a series of posts by Dr Mark McKerracher on the origins of agriculture. Subsequent posts will be published in this blog from time to time..._
 
