@@ -4,7 +4,7 @@ title: Tombs in Beowulf
 author: hw
 image: hw_header.jpg
 description: "An archaeological reading of Beowulf"
-title: "Call for Submissions"
+title: "Beowulf's Tombs"
 ---
 _Howard M. R. Williams reports on his recent Grosvenor Lunchtime Lecture, organized by the Department of History and Archaeology of Chester University, “Tombs in 'Beowulf'.”_
 
