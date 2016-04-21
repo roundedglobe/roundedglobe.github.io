@@ -3,6 +3,7 @@ published: true
 author: bs
 image: bs_header.jpg
 description: "On Bryn Hammond's historian"
+title: "Southgate on Voices"
 ---
 *Beverley Southgate criticizes the representation of the work of the historian in Bryn Hammond's [Voices from the Twelfth-Century Steppe](http://roundedglobe.com/book/54f6f692a26359d553f3348e/Voices%20from%20the%20Twelfth-Century%20Steppe), recently published by [Rounded Globe](http://roundedglobe.com).*
 
