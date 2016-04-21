@@ -8,8 +8,6 @@ _Howard M. R. Williams reports on his recent Grosvenor Lunchtime Lecture, organi
 
 I began my talk by discussing the many material dimensions to the poem *Beowulf* – halls, feasting and martial material culture, and burial mounds. I then introduced the challenge and problems of reading history and archaeology from the poem.
 
-{% include img.html image="hw1.jpg" caption="West Kennet long barrow: part of the ‘material world’ of the poem ‘Beowulf’?" %}
-
 The poem does indeed shed light on an historical ‘reality,’ but only in the broadest of terms. It reveals the widespread deployment of dimensions of mortuary practices of the 5th-10th centuries in Britain and Scandinavia, including furnished graves, ship-burial, cremation practices and burial mounds. The poem’s fascination with imagined pasts is also revealed in the archaeological record, namely the widespread interest in inserting early medieval graves into prehistoric and Roman monuments before and alongside the widespread adoption of Christian burial traditions and mortuary geographies. Also significant is the way in which the poem reveals a perception of landscape that chimes with the emerging Anglo-Saxon kingdoms of the 7th century onwards. Rather than providing a direct window onto a legendary Migration Period, the poem reveals the rich power of material cultures and landscape in constructing social memories and worldviews for Christian secular elites in the later Anglo-Saxon period, in which the pagan past had a powerful role.
 
 {% include img.html image="hw2.jpg" caption="Snape grave 47 – a 6th-century boat-burial from East Anglia. Part of the diverse and complex material world of maritime vessels deployed in early medieval mortuary practice." %}
