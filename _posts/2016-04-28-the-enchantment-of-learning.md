@@ -41,7 +41,7 @@ I was lucky enough to have this kind of experience in Gregory Bateson’s classe
 
 **References**
 
-Patrick Leigh Fermor, *The Broken Road: From the Iron Gates to Mount Athos*. Ed. Colin Thubron and Artemis Cooper. London: John Murray, 2013. 
+Patrick Leigh Fermor, *The Broken Road: From the Iron Gates to Mount Athos*. Edited by Colin Thubron and Artemis Cooper. London: John Murray, 2013. 
 
 Paul Feyerabend, *Conquest of Abundance: A Tale of Abstraction versus the Richness of Being*. Chicago: University of Chicago Press, 1999.
 
@@ -59,4 +59,5 @@ Freya Stark, *Perseus in the Wind: A Life of Travel*. Tauris Parke, 2013 [1948].
 
 Michael White, *Machiavelli: A Man Misunderstood*. London: Abacus, 2004.
 
-Header Image credit: Jonathan Moreau, [Library Parking Garage]( https://www.flickr.com/photos/jonathan_moreau/418008212/in/photolist-CWph9-7KcuX5-htKCQU-iaXmwq-og9Gfe-5po767-oxqxgS-atKSRA-pYodea-2GF8BH-8mDKrW-8zpC5F-esVJcK-oB8WUj-rr6Jcg-9atdRu-9RHPho-osYPf-zXqL7-e4iKjV-eDEqQu-nsEixT-7rGhPa-4xZw6a-CWBUK-4o9oWQ-6uNxhc-f2kxUM-e4iKkM-bHXULX-eajtEZ-6sJh4a-dj5ZW5-r4nLvt-7Fiyvw-aMMsFM-dgcrcF-5wHRbb-8SbXz9-bX3cU7-e4iLA8-9hqyYJ-nhQVoT-bvssmw-8ZNd93-iNpH9k-9gPWs9-rSH7gp-e4iLBB-4SG6h3). Creative commons license.
+**Header Image credit**  
+Jonathan Moreau, [Library Parking Garage]( https://www.flickr.com/photos/jonathan_moreau/418008212/in/photolist-CWph9-7KcuX5-htKCQU-iaXmwq-og9Gfe-5po767-oxqxgS-atKSRA-pYodea-2GF8BH-8mDKrW-8zpC5F-esVJcK-oB8WUj-rr6Jcg-9atdRu-9RHPho-osYPf-zXqL7-e4iKjV-eDEqQu-nsEixT-7rGhPa-4xZw6a-CWBUK-4o9oWQ-6uNxhc-f2kxUM-e4iKkM-bHXULX-eajtEZ-6sJh4a-dj5ZW5-r4nLvt-7Fiyvw-aMMsFM-dgcrcF-5wHRbb-8SbXz9-bX3cU7-e4iLA8-9hqyYJ-nhQVoT-bvssmw-8ZNd93-iNpH9k-9gPWs9-rSH7gp-e4iLBB-4SG6h3). Creative commons license.
