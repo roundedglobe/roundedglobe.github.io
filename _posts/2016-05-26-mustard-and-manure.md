@@ -2,7 +2,8 @@
 published: true
 author: mm
 image: mm4_header.jpg
-description: "Of mustard and manure"
+title: "Of mustard and manure"
+description: "On prehistoric seasoning & fertilization"
 ---
 _The fourth in a series of posts by Dr Mark McKerracher on the origins of agriculture._
 
