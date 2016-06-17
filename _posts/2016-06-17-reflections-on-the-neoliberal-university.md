@@ -5,7 +5,7 @@ image: cook2_header.jpg
 description: Some historical reflections
 title: "The Neoliberal University"
 ---
-*Simon J. Cook, intellectual historian, on the relationship between neoclassical economics, disciplinay autonomy, and the moden English university system.*
+*Simon J. Cook, intellectual historian, on the relationship between neoclassical economics, disciplinary autonomy, and the moden English university system.*
 
 I’ve been studying English intellectual history for nearly three decades, focusing on the years between 1865 and 1925. At the beginning of this period intellectual life in England took place largely outside the universities; by the end of it the modern university had emerged, replete with its professional journals and division of faculties, and has claimed a monopoly over serious scholarship ever since.
 
