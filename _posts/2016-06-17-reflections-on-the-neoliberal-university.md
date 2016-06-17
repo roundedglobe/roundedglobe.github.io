@@ -56,4 +56,4 @@ You can read most of the research on which I draw on my [academia.edu]( https://
 
 These reflections as a whole were inspired by my reading of an early draft of Gregory C. G. Moore's forthcoming Rounded Globe eBook, [*Leslie Stephen and the Clubbable Men of Radical London: An Essay in Honour of John King's Retirement*](https://roundedglobe.com/books/d8b165e7-9d86-435c-b339-17cc350dd2e8/Leslie%20Stephen%20and%20the%20Clubbable%20Men%20of%20Radical%20London:%20An%20Essay%20in%20Honour%20of%20John%20King's%20Retirement/).
 
-**Header image**: Gareth Williams, [Self Portrait](https://www.flickr.com/photos/gareth1953/3966082991). Creative commons license.
+**Header image**: Daniel Mennerich, [Uxmal MEX - Pyramid of the Magician 04](https://www.flickr.com/photos/danielmennerich/8478731666/). Creative commons license.
