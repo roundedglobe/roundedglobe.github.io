@@ -2,10 +2,10 @@
 published: true
 author: sjcook
 image: cook2_header.jpg
-description: Some implications of disciplinary autonomy
-title: "Reflections on the Neoliberal University"
+description: Some historical reflections
+title: "The Neoliberal University"
 ---
-*Simon J. Cook, intellectual historian and Rounded Globe co-founder, offers some reflections on the history and the shortcomings of the modern English university system.*
+*Simon J. Cook, intellectual historian, on the relationship between neoclassical economics, disciplinay autonomy, and the moden English university system.*
 
 I’ve been studying English intellectual history for nearly three decades, focusing on the years between 1865 and 1925. At the beginning of this period intellectual life in England took place largely outside the universities; by the end of it the modern university had emerged, replete with its professional journals and division of faculties, and has claimed a monopoly over serious scholarship ever since.
 
@@ -39,15 +39,15 @@ Let me jump from the early twentieth century to the present day. As an independe
 
 Within my own admittedly obscure field of intellectual history, disciplinary specialization does not simply stultify, it generates fundamentally flawed scholarship. Both my work on Marshall and my discovery of the ‘contact of peoples’ anthropologists break new ground. Nobody has noticed these things before. But this is less testimony to my research abilities than indictment of the disciplinary histories that inform conventional understandings of the intellectual past. A disciplinary history is the work of a practitioner of a discipline who projects that discipline back into history and so discovers a past populated by modern university professionals avant la lettre. The past might be a foreign country, but to the disciplinary historian in an age of globalization all countries look the same.
 
-On becoming an independent scholar my research and writing improved substantially. After a while I realized that this was because I no longer had ready access to reams of secondary literature via JSTOR and the like and had to focus my attention pretty much exclusively on the primary literature (much of which I could access free through the wonderful [Internet Archive](https://archive.org/details/texts]). In my own field most of the secondary literature is tripe and reading it harmful to genuine illumination of the past.
+On becoming an independent scholar my research and writing improved substantially. After a while I realized that this was because I no longer had ready access to reams of secondary literature via JSTOR and the like and had to focus my attention pretty much exclusively on the primary literature (much of which I could access free through the wonderful [Internet Archive](https://archive.org/details/texts). In my own field most of the secondary literature is tripe and reading it harmful to genuine illumination of the past.
 
 I recognize that my research shines a light upon only a very limited world, and that my own experiences as an intellectual historian are narrow in relation to the wider world of research and learning. Nevertheless, it is all too easy to forget that the monopolization of scholarship by the universities is a relatively recent phenomenon. Most of the canonical authors – who were named as such in the early periods of disciplinary formation – worked outside established institutions. And while the likes of Coleridge and J.S. Mill laboured as ‘independent scholars’ avant la lettre, their Oxbridge contemporaries were charged with instilling correct Anglican doctrines in the ‘rising generation’. A good part of the knowledge produced and taught by today’s academics strikes me as no less safe, vapid, and moribund as that disseminated by their counterparts a century and a half ago.
 
->*Thou shalt not worship projects nor
->Shalt thou or thine bow down before 
+>*Thou shalt not worship projects nor  
+>Shalt thou or thine bow down before   
 >    Administration.*
 
->‘Under Which Lyre’, W.H. Auden. 1946.
+‘Under Which Lyre’, W.H. Auden. 1946.
 
 
 **Bibliogaphy**
