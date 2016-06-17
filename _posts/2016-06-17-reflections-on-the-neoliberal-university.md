@@ -54,4 +54,6 @@ I recognize that my research shines a light upon only a very limited world, and 
 
 You can read most of the research on which I draw on my [academia.edu]( https://yemachine.academia.edu/simoncook) page. The research on Marshall is set out in my 2009 book, but some of the relevant arguments are summarized in the second part of my essay on [‘Culture and Political Economy’](https://www.academia.edu/2305457/Culture_and_Political_Economy_Adam_Smith_and_Alfred_Marshall). For a sustained polemic on modern disciplinary histories see my [‘The Tragedy of Cambridge Anthropology’](https://www.academia.edu/23820170/The_Tragedy_of_Cambridge_Anthropology_Edwardian_Historical_Thought_and_the_Contact_of_Peoples).
 
+These reflections as a whole were inspired by my reading of an early draft of Gregory C. G. Moore's forthcoming Rounded Globe eBook, [*Leslie Stephen and the Clubbable Men of Radical London: An Essay in Honour of John King's Retirement*](https://roundedglobe.com/books/d8b165e7-9d86-435c-b339-17cc350dd2e8/Leslie%20Stephen%20and%20the%20Clubbable%20Men%20of%20Radical%20London:%20An%20Essay%20in%20Honour%20of%20John%20King's%20Retirement/).
+
 **Header image**: Gareth Williams, [Self Portrait](https://www.flickr.com/photos/gareth1953/3966082991). Creative commons license.
