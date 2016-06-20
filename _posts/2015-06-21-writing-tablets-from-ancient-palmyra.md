@@ -61,11 +61,15 @@ There is something very tender in the thought that we have retrieved the halting
 
 Yet there is one more inscribed wooden tablet written by a Palmyran, and it only came to light a dozen or so years ago.  It was found far from the city, on the distant and dangerous route that merchants took on their way to India.  This tablet deserves to be better known.  I'll tell you about it in the next post.  
 
+* * *
+
 <sup>1</sup> Wax tablets – small wooden boards covered in a layer of wax were used throughout Antiquity and the Middle Ages. The wax surface used to write on could be easily wiped clean and reused.  It allowed erasure and reuse of the writing surface, making them suitable for use at schools, taking notes, etc. Tablets are very rarely found with wax layer and writing intact.  
 
 <sup>2</sup> Recently cleaned and restored by Karin Scheper of the Leiden Univ. Library: *Over the years fungus had grown on the wax layers, rendering the texts illegible. Scheper removed the fungus by carefully rolling a cotton swab, saturated with demineralised water and ethanol, over the wax layer. She then cut and folded new cassettes out of cardboard, allowing the tablets to ‘breathe’, eliminating the breeding conditions for fungi*. See [Greek Wax Tablets from Palmyra Restored](https://www.facebook.com/NINO.Leiden/posts/1038808922858991:0).  
 
 <sup>3</sup> In all fairness, though the tales are known elsewhere in prose, four of the thirteen fables (Babrius 136-9) on these tablets are nowhere else preserved in verse.  
+
+* * *
 
 _This post was first published on Judith's website, [Zenobia: Empress of the East](http://judithweingarten.blogspot.com)._
 
