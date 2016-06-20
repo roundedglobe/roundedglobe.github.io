@@ -18,7 +18,7 @@ swooped down and fastened on the back of a lamb.
 Unable to lift the lamb, his claws became entangled in its fleece, 
 there boys caught him and clipped his wings.*  
 
-{% include img.html image="https://4.bp.blogspot.com/-hARdynYX8gw/VvfugKT7zjI/AAAAAAAAI5E/s0VC9hHrdYkiYsNAoXR-MNnTlQXLsm4jA/s1600/MusumPalmyra-1974_7066.gif" caption="Zebida son of Taimamed holding polyptych tied
+{% include img.html image="jw1.jpg" caption="Zebida son of Taimamed holding polyptych tied
  up by a strap and a wide tablet." small=true align="left" %}
  
 The schoolboy - probably similar in age and appearance to Zebida son of Taimamed, the scholarly child whose portrait is on the left - was eagerly writing down Babrius' words on a tablet covered with wax.<sup>1</sup>  
@@ -34,7 +34,7 @@ And all that he said was written in Greek.
 
 **From Palmyra to Leiden**  
 
-{% include img.html image="https://2.bp.blogspot.com/-spI6dP2No1A/Vve_HgWW3aI/AAAAAAAAI4o/pAVhbyHCHrgmksEy-v6-CkCue_14rlLZw/s1600/WaxTablet2v.gif" small=true align="left" %}
+{% include img.html image="jw2.jpg" small=true align="left" %}
 
 And here (left) is the actual wax tablet that the schoolboy scribbled on.  His writing looks as if he had inbibed a little too much wine: most lines are not straight, spacing is irregular and there are spelling errors in his Greek.  But, in truth, given that his own language was Palmyrene and he was just learning Greek, the result isn't really bad at all.  
 
@@ -46,14 +46,14 @@ In 1893, Leiden professor Dirk Hesseling published the tablets.  He had discover
 
 >*You may learn and fully understand from wise old Aesop, who has told us fables in the free manner of prose.  And now I shall adorn each of these fables with the flowers of my own Muse.  I shall set before you a poetical honeycomb, as it were, dripping with sweetness....*  
 
-{% include img.html image="https://4.bp.blogspot.com/-mtfn2Xy9eOg/VvjvDUVUPII/AAAAAAAAI5k/bKqR_LgNEPsyiEygULObERCKUWR7IdP-Q/s1600/Louvre-AO18174.gif" caption="Unnamed boy holding stylus and polyptych
+{% include img.html image="jw3.jpg" caption="Unnamed boy holding stylus and polyptych
 with Greek inscription." small=true align="left" %}
 
 In antiquity, the fables of Babrius were commonly used as an easy reader for young children when they were first learning to speak and write Greek.  "Let them learn," [Quintilian](https://en.wikipedia.org/wiki/Quintilian) says (I,9,1) "first to tell the fables orally in clear, unpretentious language, then to write them out with the same simplicity of style...."   Such stories featuring anthropomorphised animals and containing moralistic wisdom were a good way to teach Greek to school children.  The somewhat older lad pictured (left) is proud of his Greek: his open stack of waxed tablets displays the last five letters of the Greek alphabet -- but written in Palmyrene (Aramaic) order, from right to left.  
 
 The empire was multilingual, and learning Greek as a second language was a necessity in the eastern empire - and nowhere more so than in Palmyra, especially for its merchants who travelled far and wide, often to the very edges of the known world. The many monumental inscriptions of the city carved on its pillars and walls, reflect their cosmopolitan ways: many hundreds are bilingual, written in both Palmyrene and Greek.  The ability to use Aramaic and Greek alphabets seems not to have been uncommon at Palmyra.  
 
-{% include img.html image="https://1.bp.blogspot.com/-p6oJM1qf_Jc/Vvj2eLRo06I/AAAAAAAAI50/9pNeXqimqrEGKclxq5-oApge7NSTGqIfg/s1600/WaxedTablet4v.gif" small=true align="left" %}
+{% include img.html image="jw4.jpg" small=true align="left" %}
 
 That's why our Palmyran schoolboys started learning the Greek alphabet and language at a young age, perhaps soon after having learnt to read and write the entirely different Palmyrene (Aramaic) script.  All seven *Tabulae ceratae Assendelftianae* were written by a single schoolboy who lived in the city in the early third century CE (as can be determined from the form of his letters). On some tablets, he  practiced his hand in both book-script - printing his letters - and cursive - joining them up (as left).  It's very likely that his teacher was dictating the fables while the boy wrote them down as he thought he heard them - with all the errors and smudges, deletions and guesswork that you would expect.   
 
@@ -66,6 +66,8 @@ Yet there is one more inscribed wooden tablet written by a Palmyran, and it only
 <sup>2</sup> Recently cleaned and restored by Karin Scheper of the Leiden Univ. Library: *Over the years fungus had grown on the wax layers, rendering the texts illegible. Scheper removed the fungus by carefully rolling a cotton swab, saturated with demineralised water and ethanol, over the wax layer. She then cut and folded new cassettes out of cardboard, allowing the tablets to ‘breathe’, eliminating the breeding conditions for fungi*. See [Greek Wax Tablets from Palmyra Restored](https://www.facebook.com/NINO.Leiden/posts/1038808922858991:0).  
 
 <sup>3</sup> In all fairness, though the tales are known elsewhere in prose, four of the thirteen fables (Babrius 136-9) on these tablets are nowhere else preserved in verse.  
+
+-This post was first published on Judith's website, [Zenobia: Empress of the East](http://judithweingarten.blogspot.com).
 
 **Main Sources**
 
