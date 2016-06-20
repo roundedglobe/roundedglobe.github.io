@@ -96,4 +96,4 @@ Top left: Zebida son of Taimamed holding polyptych and a wide tablet. Palmyra,Pa
 
 Lower left: Wax tablet from Palmyra. Photo credit: [Tabulae ceratae graecae quae vocantur Assendelftianae](http://catalogue.leidenuniv.nl/primo_library/libweb/action/dlDisplay.do?vid=UBL_V1&search_scope=All_Content&docId=UBL_LMS003766881&fn=permalink), Leiden University.
 
-Header image derived from James Filipi, ['Palmyra Theater'](https://www.flickr.com/photos/jfilipi/5416413897/).
+Header image Filip Gierlinski, ['Palmyra Views'](https://www.flickr.com/photos/filskifoto/5547410778). Creative commons license.
