@@ -34,9 +34,9 @@ And all that he said was written in Greek.
 
 **From Palmyra to Leiden**  
 
-{% include img.html image="jw2.jpg" small=true align="left" %}
+{% include img.html image="jw2.jpg" small=true align="right" %}
 
-And here (left) is the actual wax tablet that the schoolboy scribbled on.  His writing looks as if he had inbibed a little too much wine: most lines are not straight, spacing is irregular and there are spelling errors in his Greek.  But, in truth, given that his own language was Palmyrene and he was just learning Greek, the result isn't really bad at all.  
+And here (right) is the actual wax tablet that the schoolboy scribbled on.  His writing looks as if he had inbibed a little too much wine: most lines are not straight, spacing is irregular and there are spelling errors in his Greek.  But, in truth, given that his own language was Palmyrene and he was just learning Greek, the result isn't really bad at all.  
 
 What is amazing, however, is that this tablet still exists: in fact, seven wax tablets (probably once bound together as a polyptych - a [diptych](https://en.wikipedia.org/wiki/Diptych) + five) - were bought by a Dutch naval officer, Mr H. van Assendelft de Coningh, in Palmyra in 1881 ("During my brief visit to Palmyra I acquired these wooden tablets").  What amazing luck: these are the *only* inscribed tablets known to have come from ancient Palmyra. After Van Assendelft de Coningh's death, his brother donated the tablets to the Leiden University library which gave them the name of *Tabulae ceratae Assendelftianae* in honour of the family.  The tablets are still to be found in that library and, even better, they can now be [viewed online](https://socrates.leidenuniv.nl/R/-?func=dbin-jump-full&object_id=4433833).<sup>2</sup>  
 
@@ -53,7 +53,7 @@ In antiquity, the fables of Babrius were commonly used as an easy reader for you
 
 The empire was multilingual, and learning Greek as a second language was a necessity in the eastern empire - and nowhere more so than in Palmyra, especially for its merchants who travelled far and wide, often to the very edges of the known world. The many monumental inscriptions of the city carved on its pillars and walls, reflect their cosmopolitan ways: many hundreds are bilingual, written in both Palmyrene and Greek.  The ability to use Aramaic and Greek alphabets seems not to have been uncommon at Palmyra.  
 
-{% include img.html image="jw4.jpg" small=true align="left" %}
+{% include img.html image="jw4.jpg" small=true align="right" %}
 
 That's why our Palmyran schoolboys started learning the Greek alphabet and language at a young age, perhaps soon after having learnt to read and write the entirely different Palmyrene (Aramaic) script.  All seven *Tabulae ceratae Assendelftianae* were written by a single schoolboy who lived in the city in the early third century CE (as can be determined from the form of his letters). On some tablets, he  practiced his hand in both book-script - printing his letters - and cursive - joining them up (as left).  It's very likely that his teacher was dictating the fables while the boy wrote them down as he thought he heard them - with all the errors and smudges, deletions and guesswork that you would expect.   
 
@@ -67,7 +67,7 @@ Yet there is one more inscribed wooden tablet written by a Palmyran, and it only
 
 <sup>3</sup> In all fairness, though the tales are known elsewhere in prose, four of the thirteen fables (Babrius 136-9) on these tablets are nowhere else preserved in verse.  
 
--This post was first published on Judith's website, [Zenobia: Empress of the East](http://judithweingarten.blogspot.com).
+_This post was first published on Judith's website, [Zenobia: Empress of the East](http://judithweingarten.blogspot.com)._
 
 **Main Sources**
 
