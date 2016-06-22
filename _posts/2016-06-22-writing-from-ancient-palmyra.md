@@ -5,11 +5,11 @@ image: jw_header.jpg
 title: "Writing tablets from ancient Palmyra"
 description: "A chance record from days long past"
 ---
-_Palmyra has been in the news of late due to the destruction wrought by Islamic State. In this post Judith Weingarten takes us back to a bar in happier days..  ._
+_Palmyra has been in the news of late due to the destruction wrought by Islamic State. In this post Judith Weingarten takes us back to a bar in happier days..._
 
 **One story is good, till another is told**  
 
-Two men, by the names of Aesop and Babrius, and a schoolboy walked into a bar in ancient Palmyra. Aesop ordered three cups of date-palm wine and toasts his companions, telling a fable about an eagle and a jackdaw ([Aesop 2](http://www.aesopfables.com/cgi/aesop1.cgi?2&TheEagleandtheJackdaw)).  Babrius laughs, buys another round of wine, and says, "Aesop, best of fabulists, truly you are an eagle but I'll show you I'm no daw." With barely a pause, he renders Aesop's prose into verse (Babrius 137):   
+Two men, by the names of Aesop and Babrius, and a schoolboy walked into a wine bar in ancient Palmyra. Aesop ordered three cups of date-palm wine and toasted his companions, telling a fable about an eagle and a jackdaw ([Aesop 2](http://www.aesopfables.com/cgi/aesop1.cgi?2&TheEagleandtheJackdaw)).  Babrius laughs, buys another round of wine, and says, "Aesop, best of fabulists, truly you are an eagle but I'll show you I'm no daw." With barely a pause, he renders Aesop's prose into verse (Babrius 137):   
 
 > *An eagle with his talons lifted a sleek lamb from the flock
 and carried it off to give to his young ones for a meal.
@@ -36,7 +36,7 @@ And all that he said was written in Greek.
 
 {% include img.html image="jw2.jpg" small=true align="right" %}
 
-And here (right) is the actual wax tablet that the schoolboy scribbled on.  His writing looks as if he had inbibed a little too much wine: most lines are not straight, spacing is irregular and there are spelling errors in his Greek.  But, in truth, given that his own language was Palmyrene and he was just learning Greek, the result isn't really bad at all.  
+And here (below right) is the actual wax tablet that the schoolboy scribbled on.  His writing looks as if he had inbibed a little too much wine: most lines are not straight, spacing is irregular and there are spelling errors in his Greek.  But, in truth, given that his own language was Palmyrene and he was just learning Greek, the result isn't really bad at all.  
 
 What is amazing, however, is that this tablet still exists: in fact, seven wax tablets (probably once bound together as a polyptych - a [diptych](https://en.wikipedia.org/wiki/Diptych) + five) - were bought by a Dutch naval officer, Mr H. van Assendelft de Coningh, in Palmyra in 1881 ("During my brief visit to Palmyra I acquired these wooden tablets").  What amazing luck: these are the *only* inscribed tablets known to have come from ancient Palmyra. After Van Assendelft de Coningh's death, his brother donated the tablets to the Leiden University library which gave them the name of *Tabulae ceratae Assendelftianae* in honour of the family.  The tablets are still to be found in that library and, even better, they can now be [viewed online](https://socrates.leidenuniv.nl/R/-?func=dbin-jump-full&object_id=4433833).<sup>2</sup>  
 
@@ -55,7 +55,7 @@ The empire was multilingual, and learning Greek as a second language was a neces
 
 {% include img.html image="jw4.jpg" small=true align="right" %}
 
-That's why our Palmyran schoolboys started learning the Greek alphabet and language at a young age, perhaps soon after having learnt to read and write the entirely different Palmyrene (Aramaic) script.  All seven *Tabulae ceratae Assendelftianae* were written by a single schoolboy who lived in the city in the early third century CE (as can be determined from the form of his letters). On some tablets, he  practiced his hand in both book-script - printing his letters - and cursive - joining them up (as left).  It's very likely that his teacher was dictating the fables while the boy wrote them down as he thought he heard them - with all the errors and smudges, deletions and guesswork that you would expect.   
+That's why our Palmyran schoolboys started learning the Greek alphabet and language at a young age, perhaps soon after having learnt to read and write the entirely different Palmyrene (Aramaic) script.  All seven *Tabulae ceratae Assendelftianae* were written by a single schoolboy who lived in the city in the early third century CE (as can be determined from the form of his letters). On some tablets, he  practiced his hand in both book-script - printing his letters - and cursive - joining them up (as bottom right).  It's very likely that his teacher was dictating the fables while the boy wrote them down as he thought he heard them - with all the errors and smudges, deletions and guesswork that you would expect.   
 
 There is something very tender in the thought that we have retrieved the halting efforts of a young Palmyran in the early stages of learning the Greek language; we can almost picture him as he hurried to school on the streets of Palmyra with wax tablets tied by strings. But, in all truth, it is disappointing, too, that the surviving texts on these tablets are only the rather banal fables of Babrius - already known to us from many sources throughout the Roman Empire.<sup>3</sup> Can you imagine if instead they had recorded epic battles in the wars against Sasanian Persia, or hymns to the gods of Palmyra, or records of a merchant's far-away travels?  Alas, that was not to be.  
 
