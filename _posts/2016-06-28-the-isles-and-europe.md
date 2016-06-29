@@ -25,4 +25,4 @@ Joanna Story, Carolingian Connections: Anglo-Saxon England and Carolingian Franc
 
 <sup>1</sup> ‘Ein wahrhaft reiches Volk wird dadurch reich, daß es von anderen vieles übernimmt und weiterbildet’.
 
-Header image: Patrick Marioné, ['Marty, stop to play with that animal ! Come eat your snack, St Boniface, Bruxelles'](https://www.flickr.com/photos/p_marione/11764053065/). Creative commons license.
+Header image: Patrick Marioné, ['Marty, stop to play with that animal ! Come eat your snack'](https://www.flickr.com/photos/p_marione/11764053065/), St Boniface, Bruxelles. Creative commons license.

@@ -3,6 +3,7 @@ published: true
 author: mn
 image: mn_header.jpg
 title: "A letter to friends who voted Leave"
+description: "The morning after Brexit"
 ---
 Over the last few days I’ve seen Leave voters on Facebook posting in annoyance that Remain voters are not sitting in quiet acceptance of Friday’s result. Apparently it’s an outrage to democracy that those of us who voted differently have the nerve to be upset about the result and to express ourselves.
 
