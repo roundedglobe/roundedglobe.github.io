@@ -4,7 +4,7 @@
  <title>Rounded Bloge</title>
  <link href="http://roundedglobe.github.io/atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/"/>
- <updated>2016-07-05T18:59:23+01:00</updated>
+ <updated>2016-07-05T20:59:00+01:00</updated>
  <id>http://roundedglobe.github.io</id>
  
  <author>
@@ -26,7 +26,12 @@
 &lt;div class=&quot;illustration left&quot;&gt;
 
 
-&lt;a href=&quot;/images/Map_copy.gif&quot;&gt;&lt;img src=&quot;/images/Map_copy.gif&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/Untitled-2.gif&quot;&gt;&lt;img src=&quot;/images/Untitled-2.gif&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+	&lt;p&gt;Desert rose (&lt;em&gt;Adenium obesium&lt;/em&gt;)&lt;/p&gt;
+
+&lt;/span&gt;
 
 &lt;/div&gt;
 
@@ -37,12 +42,7 @@
 &lt;div class=&quot;illustration right&quot;&gt;
 
 
-&lt;a href=&quot;/images/Untitled-2.gif&quot;&gt;&lt;img src=&quot;/images/Untitled-2.gif&quot; /&gt;&lt;/a&gt;
-
-&lt;span&gt;
-	&lt;p&gt;Desert rose (&lt;em&gt;Adenium obesium&lt;/em&gt;)&lt;/p&gt;
-
-&lt;/span&gt;
+&lt;a href=&quot;/images/Map_copy.gif&quot;&gt;&lt;img src=&quot;/images/Map_copy.gif&quot; /&gt;&lt;/a&gt;
 
 &lt;/div&gt;
 

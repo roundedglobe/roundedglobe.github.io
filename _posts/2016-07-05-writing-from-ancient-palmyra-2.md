@@ -10,13 +10,13 @@ Read Part I of this post [here](/writing-from-ancient-palmyra/).
 
 ## Where in the world is Socotra?
 
-{% include img.html image="Map_copy.gif" align="left" %}
+{% include img.html image="Untitled-2.gif" caption="Desert rose (*Adenium obesium*)" align="left" %}
 
 Situated smack in the middle of nowhere, in the Indian Ocean 250 km/155 miles east of Somalia and 340 km/210 miles from the coast of Yemen (to which it now belongs). [Socotra](https://en.wikipedia.org/wiki/Socotra) is a weirdly wonderful  island, with wide sandy beaches, karst limestone  plateaus full of caves (some as long as 7 km/4.3 miles) and mist-shrouded mountains rising to 1525m/5000' high. 
 
 <div class="cf"></div>
 
-{% include img.html image="Untitled-2.gif" caption="Desert rose (*Adenium obesium*)" align="right" %}
+{% include img.html image="Map_copy.gif" align="right" %}
 
 The climate is ghastly: hot, harsh, and windswept at the best of times.  The summer monsoon is far from the best  of times: from June to September, the island is so battered by fierce winds that, even today,  maritime traffic comes to a dead halt. Greeks, Arabs, Turks, Portuguese, and British mariners all tried to establish a permanent base on the island -- and all gave up because it was just too horrible. A place so utterly isolated makes it, though, a happy home for a great number of strange plants and animals, many of them endemic to the island (i.e., found only here). 
 
