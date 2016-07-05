@@ -61,6 +61,10 @@ There is something very tender in the thought that we have retrieved the halting
 
 Yet there is one more inscribed wooden tablet written by a Palmyran, and it only came to light a dozen or so years ago.  It was found far from the city, on the distant and dangerous route that merchants took on their way to India.  This tablet deserves to be better known.  I'll tell you about it in the next post.  
 
+<div class="cf"></div>
+
+Read Part II of this post [here](/writing-from-ancient-palmyra-2/).
+
 * * *
 
 <sup>1</sup> Wax tablets – small wooden boards covered in a layer of wax were used throughout Antiquity and the Middle Ages. The wax surface used to write on could be easily wiped clean and reused.  It allowed erasure and reuse of the writing surface, making them suitable for use at schools, taking notes, etc. Tablets are very rarely found with wax layer and writing intact.  
