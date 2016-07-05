@@ -1,7 +1,7 @@
 ---
 published: true
 author: jw
-image: jw_header.jpg
+image: jw2_header.jpg
 title: "Writing tablets from ancient Palmyra"
 description: "Part II: The forgotten island"
 ---
@@ -85,3 +85,5 @@ You can't ask for more than that on Socotra.
 
 Ch. Robin, Maria Gorea, iLes vestiges antiques de la grotte de Hôq (Suqutra, Yémen)
 (note d'information).  In: *Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres*, 146e année, N. 2, 2002. pp. 409-445. The blogs [The Dark Roasted Blend](http://www.darkroastedblend.com/2008/09/most-alien-looking-place-on-earth.html), [Travel to Socotra](http://en.paperblog.com/travel-to-socotra-island-yemen-494048/), [Socotra, Dream Island](http://socotra.info/hoq#.VzIKf-RrWxY).
+
+Header image by [Rod Waddington](https://commons.wikimedia.org/wiki/File:Dragon%27s_Blood_Tree,_Socotra_Is_(12473612124).jpg), Creative Commons license.
