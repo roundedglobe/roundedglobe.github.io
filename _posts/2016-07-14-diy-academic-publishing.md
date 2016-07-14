@@ -41,7 +41,7 @@ The same basic model holds also for authors. In agreeing to the creative commons
 
 Rounded Globe also incorporates a marketing strategy derived from the many thousands of new fiction writers spawned by the self-publishing revolution initiated by Amazon. Self-published authors enjoy a potentially massive market, but face an acute problem of visibility. Their most common marketing strategy is the ‘giveaway’: distributing one eBook for free in order to generate an audience for other titles. For independent scholars who want to earn some income from their writing, Rounded Globe can be regarded as a glorified giveaway, fuelling interest in other titles sold elsewhere.   
 
-{% include img.html image="bollocks.jpg"}
+{% include img.html image="bollocks.jpg" %}
 
 **Changing Academic Culture**   
 The extent to which Rounded Globe can help generate an income for authors is dependent on a number of factors, most beyond our control.  
