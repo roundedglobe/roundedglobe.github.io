@@ -37,7 +37,7 @@ In this model there is no place for market exchange, i.e. sales. Hence, we are u
 
 At the time of writing we have only a handful of patrons, but their collective generosity brings us $335 each time we release a new eBook. This money is vital: it covers web hosting, cover design (outsourced) and allows us to pay a friend to do some basic social media. This still leaves editing, coding, and website maintenance. We have faith that our Patreon campaign will eventually allow Rounded Globe to (more or less) pay for itself.  
 
-The same basic model holds also for authors. In agreeing to the creative commons license, authors commit themselves to offering their work for free; but we place donate buttons on the download page for each eBook, and suggest a donation of $5.00.  
+The same basic model holds also for authors. In agreeing to the creative commons license, authors commit themselves to offering their work for free on our site (they may, of course, offer it for sale elsewhere); but we place donate buttons on the download page for each eBook, and suggest a donation of $5.00.  
 
 Rounded Globe also incorporates a marketing strategy derived from the many thousands of new fiction writers spawned by the self-publishing revolution initiated by Amazon. Self-published authors enjoy a potentially massive market, but face an acute problem of visibility. Their most common marketing strategy is the ‘giveaway’: distributing one eBook for free in order to generate an audience for other titles. For independent scholars who want to earn some income from their writing, Rounded Globe can be regarded as a glorified giveaway, fuelling interest in other titles sold elsewhere.   
 
