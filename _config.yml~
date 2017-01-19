@@ -1,0 +1,172 @@
+name: Rounded Bloge 
+description: Rounded Globe Blog 
+url: http://roundedglobe.github.io
+twitter_username: roundedglobe
+baseurl: ""
+imagedir: "/images/"
+defaults:
+    -   
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            comments: true
+            layout: post
+            image: books_header.jpg
+    -   
+        scope:
+            path: ""
+            type: "drafts"
+        values:
+            comments: false
+            layout: post
+gems: [jekyll-paginate]
+paginate: 10 
+paginate_path: "/:num"
+links:
+    Home:
+        url: /
+        image: emblem.png
+    Twitter:
+        url: https://twitter.com/roundedglobe
+        image: twitter_icon.png
+    Facebook:
+        url: https://www.facebook.com/roundedglobe
+        image: facebook_icon.png
+    Atom Feed:
+        url: /atom.xml 
+        image: atom_icon.png
+    Patreon:
+        url: https://www.patreon.com/roundedglobe?ty=h 
+        image: patreon_icon.png
+    Rounded Globe:
+        url: http://roundedglobe.com/
+        image: rg_icon.png
+authors:
+    rg:
+        name: Rounded Globe 
+        email: roundedglobe@gmail.com
+        link: http://roundedglobe.com/
+    bhammond:
+        name: Bryn Hammond
+        bio: "Bryn Hammond was born in Britain but grew up and now lives in Australia. Her imagination was early captured by Anna Comnena’s Turks and Gibbon’s barbarians. Her acclaimed __Amgalant__ series of historical novels, which has brought to life the stirring events of Mongol history on the twelfth-century Steppe, can be purchased (in print or electronic form) from her website, [Amgalant](http://amgalant.com/)."
+        links:
+            Website: http://amgalant.com/
+            Twitter: https://twitter.com/Jakujin
+    jschmitt:
+        name: Jason Schmitt
+        bio: "Professor/writer/blogger/speaker. He writes for Huffington Post and Slate about new technology, startups, open access and higher education."
+        links:
+            Website: http://jasonschmitt.com/ 
+            Twitter: https://twitter.com/jason_schmitt
+    hw:
+        name: Howard M. R. Williams
+        bio: "Howard Williams is Professor of Archaeology at Chester University. He is interested in mortuary archaeology, archaeologies of memory and the history of archaeology. He focuses these interests on the study of the British Isles and Scandinavia in the early Middle Ages (c. AD 400 - 1100). His [*Death & Memory in Early Medieval Britain*](http://www.cambridge.org/il/academic/subjects/archaeology/medieval-archaeology/death-and-memory-early-medieval-britain?format=PB) was published in 2006 by Cambridge University Press and is now available in paperback. Professor Williams is co-director of [Project Eliseg](http://www.projecteliseg.org/), a collaborative archaeological research project investigating one of Britain’s most enigmatic early medieval monuments: The Pillar of Eliseg, near Llangollen, in north-east Wales."
+        links:
+            Website: https://howardwilliamsblog.wordpress.com/ 
+    sjcook:
+        name: Simon J. Cook
+        bio: "Simon J. Cook is an intellectual historian and independent scholar. His award-winning monograph on the political economist Alfred Marshall was published by Cambridge University Press in 2009 and costs $109.99. His recent essay on _J.R.R. Tolkien’s Lost English Mythology_ is [available for free on Rounded Globe](https://roundedglobe.com/books/81f4d2b2-6f5f-4d00-a9f9-dc8ca1f8ec15/J.R.R.%20Tolkien's%20Lost%20English%20Mythology/)."
+        links:
+            Website: http://yemachine.com/
+    gstroumsa:
+        name: Guy Stroumsa
+        bio: "Guy G. Stroumsa is Martin Buber Professor Emeritus of Comparative Religion, The Hebrew University of Jerusalem and Professor Emeritus of the Study of the Abrahamic Religions, and Emeritus Fellow of Lady Margaret Hall, University of Oxford.<br /><br />His recent publications include:<br /><br /><em><a href=\"http://www.press.uchicago.edu/ucp/books/book/chicago/E/bo5747718.html\">The End of Sacrifice: Religious Transformations of Late Antiquity</a></em> (Chicago, 2009; paperback 2012)<br /><em><a href=\"http://www.hup.harvard.edu/catalog.php?isbn=9780674048607\">A New Science: the Discovery of Religion in the Age of Reason</a></em> (Cambridge, Mass., 2010)<br /><em><a href=\"https://global.oup.com/academic/product/the-making-of-the-abrahamic-religions-in-late-antiquity-9780198738862?cc=il&lang=en\">The Making of the Abrahamic Religions in Late Antiquity</a></em> (Oxford, 2015)<br /><em>The Scriptural Universe of Early Christianity</em> (Cambridge, Mass.: Harvard University Press, forthcoming)<br />He is the co-editor, with Adam Silverstein, of <em><a href=\"https://global.oup.com/academic/product/the-oxford-handbook-of-the-abrahamic-religions-9780199697762?cc=il&lang=en\">The Oxford Handbook of the Abrahamic Religions</a></em> (Oxford, 2015)."
+        links:
+            Academia.edu: https://huji.academia.edu/guystroumsa
+    jw:
+        name: Judith Weingarten
+        bio: "Judith Weingarten studied Classical Archaeology at the University of Oxford and is a member of the British School of Athens. She has excavated for many years on Crete and on the Greek mainland and travelled extensively in the Middle East. She has lived and worked among the ruins of the three great Caravan Cities: Petra, Palmyra, and Baalbek. She gave the keynote speech at the Metropolitan Museum of Art's May 2016 'Palmyra Day' event in memory of Dr Khaled al-Asaad (23 May 2016). Whilst living within the grounds of the Temple of Bel in Palmyra she began to write her historical novel on Zenobia, Queen of Palmyra and the rebellion that she led against imperial Rome (available in June)."
+        links:
+            Website: http://judithweingarten.blogspot.com
+            Academia.edu: https://bsa.academia.edu/judithweingarten
+    mn:
+        name: Matt Nicholas
+        bio: "Matt Nicholas recently finished a PhD at Cardiff University on the analysis of early Anglo-Saxon non-ferrous metals excavated from a group of cemeteries in Suffolk. He grew up in a town called Worksop in North Nottinghamshire. With sites like Creswell Crags and Roche Abbey on his doorstep becoming an archaeologist was an occupational hazard of childhood. He was lucky enough to get his first job excavating an Anglo-Saxon cemetery at Whitby Abbey before studying for a BSc in Archaeological Sciences at the University of Bradford (2000-4). He then worked in commercial archaeology for a few years (in locations from Suffolk to Sudan) before studying for an MSc in the Technology and Analysis of Archaeological Material at UCL (2007-8). He proceeded to spend two years employed at the Pitt Rivers Museum in Oxford (where he didn't stab himself with a poisoned arrow and only broke one object). He does not like pickled beetroot."
+        links:
+            Website: https://tutania.co.uk/
+            Academia.edu: https://cardiff.academia.edu/mattnic
+            Twitter: https://twitter.com/mattnic
+    lb:
+        name: Lindybeige
+        bio: "Lindybeige is a channel that has existed since January 2008, and covers the interests of its creator, who read archaeology at university and the went on to be a research associate in evolutionary psychology.  The topics include military history, particularly of the ancient and medieval periods and World War Two, rants, swing dance, travelogues, evolution, and occasional silly stuff."
+        links:
+            Website: https://www.youtube.com/channel/UC9pgQfOXRsp4UKrI8q0zjXQ
+            Facebook: https://www.facebook.com/Lindybeige
+            Twitter: https://twitter.com/Lindybeige
+    jpowers:
+        name: Jillian Powers
+        bio: "Jillian Powers is a rogue academic/people scientist and the 2015-2016 Association of Jewish Studies’ Berman Early Career Fellow. Previously, she was a lecturer in American Studies at Brandeis University, a Florence Kay Fellow with a specialization in Immigration and American Society at Brandeis University, and a Postdoctoral Fellow in American Culture Studies at Washington University in St. Louis. She earned her Ph.D. in Sociology from Duke University in 2011. Powers’ work examines issues of American heritage, culture, and racial and ethnic group identity. Currently, she is working on the book manuscript, *Traveling to Belong* (under contract with New York University Press). She has spoken widely on topics of diversity, immigration, race & ethnicity, travel, & tourism. Recently, she gave a Tedx talk entitled, the [New American Normal](http://tedxtalks.ted.com/video/The-new-American-normal-Jillian)."
+        links:
+            Website: http://soapvoxderby.com/blog/
+            Twitter: https://twitter.com/DrBrutusPowers
+    kt:
+        name: Keith Tribe
+        bio: "Keith Tribe is an economic historian with a long-standing interest in language and translation. Born in London, he now lives on the Herefordshire-Worcestershire border near Malvern. Keith studied at Essex University and Cambridge, and did postdoctoral work in Heidelberg and Göttingen. Between 1976 to 2002 he taught first sociology and then economics at Keele University. His publications include: [_The Economy of the Word_]( https://global.oup.com/academic/product/the-economy-of-the-word-9780190211615?cc=il&lang=en&), Oxford, 2015; [_Strategies of Economic Order: German Economic Discourse, 1750-1950_]( http://www.cambridge.org/il/academic/subjects/economics/history-economic-thought-and-methodology/strategies-economic-order-german-economic-discourse-17501950), Cambridge, 2007, and [_Land, Labour, and Economic Discourse_]( https://books.google.co.il/books/about/Land_labour_and_economic_discourse.html?id=gv25AAAAIAAJ&redir_esc=y), London, 1978. In 2016 his new translation of Schiller's _On the Aesthetic Education of Man_ (edited by Alexander Schmidt) will be published by Penguin Press."
+        links:
+            Blog: http://keithtribe.co.uk/
+            Academia.edu: https://independent.academia.edu/KeithTribe
+    hs:
+        name: Hannah Sackett
+        bio: "Hannah Sackett is a cartoonist, writer and educator with a background in archaeology. You can read her work [here](https://prehistories.wordpress.com/), buy it [here](https://www.etsy.com/shop/prehistories) or commission it [here](https://hannahkatesackett.co.uk/). Hannah would like to emphasize the non-commercial aspect of the creative commons license under which her work is published on Rounded Bloge."
+        links:
+            Website: https://prehistories.wordpress.com/
+            Facebook: https://www.facebook.com/Prehistories-218188098354834
+            Twitter: https://twitter.com/DrHComics
+    drew:
+        name: Drew
+        bio: "Drew is a co-founder of Rounded Globe. He likes playing computer games, talking about GNU/Linux and intends to take up embroidery."
+        links:
+            Website: http://ludiclinux.com/
+    hc:
+        name: Herb Childress
+        bio: "Herb Childress is a writer and former academic living in Vermont USA with his wife, another writer and former academic, and their cats, who have been neither. He has a peculiar knack for seeing around corners and is the author of the recently published *The PhDictionary: A Glossary of Things You Don't Know (but Should) about Doctoral and Faculty Life* (University of Chicago Press). Bits of his work can be seen [here](http://thephdictionary.com/)."
+        links:
+            Website: http://thephdictionary.com/
+    pc:
+        name: Patrick Curry
+        bio: "Patrick Curry's work has addressed astrology and divination, Tolkien’s Middle-earth, ecological philosophy and now enchantment – all subjects that have been marginalised by, and within, mainstream modernity. His work attempts a rigorous Romanticism – a meditation upon the ineffable and is indefinable, with ‘the maximum of emotion compatible with a classical sense of form’ (Cyril Connolly) – and is motivated by a conviction that what cannot be calculated, controlled, or bought and sold is at the heart of what makes us human and makes life worth living. Patrick is the author of several books, including [*Defending Middle-Earth: Tolkien, Myth and Modernity*]( https://www.amazon.co.uk/Defending-Middle-Earth-Tolkien-Myth-Modernity/dp/061847885X?ie=UTF8&camp=1634&creative=6738&creativeASIN=061847885X&linkCode=as2&redirect=true&tag=wwwpatrickcur-21), [*Ecological Ethics*]( https://www.amazon.co.uk/Ecological-Ethics-Patrick-Curry/dp/0745651267?ie=UTF8&qid=1310136982&ref_=sr_1_18&s=books&sr=1-18), [*Deep Roots in a Time of Frost: Essays on Tolkien*]( http://shop.walking-tree.org/sales/order.php?addItem=cormare33), and [*Prophecy and Power: Astrology in Early Modern England*](http://press.princeton.edu/titles/4457.html). He appears in interviews in two of the three extended New Line DVD’s on *The Lord of the Rings*."
+        links:
+            Website: http://www.patrickcurry.co.uk/
+    jc:
+        name: John Caviglia
+        bio: "John Caviglia was born in Chile, his father a *chileno*, his mother an adventurous *gringa* from Muncie, Indiana. His family moved to the United States when he was eight. He has been a professor of Spanish and Comparative literature, and also taught pottery and martial arts. He is the author of *Arauco: A Novel*, which is available on [Amazon](http://www.amazon.com/s/ref=nb_sb_ss_i_0_6?url=search-alias%3Daps&field-keywords=arauco%20a%20novel&sprefix=arauco%2Caps%2C203&rh=i%3Aaps%2Ck%3Aarauco%20a%20novel) and [Smashwords](https://www.smashwords.com/books/search?query=Arauco%3A+A+Novel)."
+        links:
+            Website: http://www.arauconovel.com
+    bs:
+        name: Beverley Southgate
+        bio: "Beverley Southgate is Reader Emeritus in History of Ideas at the University of Hertfordshire, and lives in London. His publications include [*What is History For?*](https://books.google.co.il/books/about/What_is_History_For.html?id=rHXrMbXUsQ8C&redir_esc=y) (London: Routledge, 2005); [*Contentment in Contention: Acceptance versus Aspiration*](http://www.palgraveconnect.com/pc/doifinder/view/10.1057/9780230360884.0001) (Basingstoke: Palgrave Macmillan, 2012); and [*‘A New Type of History’: Fictional proposals for dealing with the past*](https://books.google.co.il/books?id=yjqsCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) (London and New York: Routledge, 2015)."
+    th:
+        name: Tom Hillman
+        bio: "Born and raised in New York City, Tom for some years had the great pleasure of teaching Latin, Greek, and Ancient History at colleges in the northeastern US. Of late he is parsing his way through *Beowulf*, and looking forward to Old Norse. He loves baseball, books, and the music of the sea."
+        links:
+            Blog: http://alasnotme.blogspot.com/
+            GooglePlus: https://plus.google.com/107507259485817913355/about
+            Twitter: https://twitter.com/alas_not_me
+    mm:
+        name: Mark McKerracher
+        bio: "Mark McKerracher is an independent writer and researcher of agricultural archaeology, specializing in the Anglo-Saxon period."
+        links:
+            Blog: https://farmingunearthed.wordpress.com/
+            Academia.edu: https://independent.academia.edu/MarkMcKerracher
+    jp:
+        name: James Palmer
+        bio: "James Palmer is an early medievalist at St Andrews, and author of [_The Apocalypse in the Early Middle Ages_](http://www.cambridge.org/se/academic/subjects/history/european-history-450-1000/apocalypse-early-middle-ages) and [_Anglo-Saxons in a Frankish World 690-900_](http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503519111-1)."
+        links:
+            Blog: https://merovingianworld.wordpress.com/
+            Academia.edu: https://st-andrews.academia.edu/JamesPalmer
+            Twitter: https://twitter.com/j_t_palmer
+    ms:
+        name: Michael E. Smith
+        bio: "Michael E. Smith is an archaeologist who works on Aztec sites and Teotihuacan. He is based at Arizona State University and does comparative and transdisciplinary research on cities, and also households, empires, and city-states. He views his discipline, archaeology, as a Comparative Historical Social Science. His publications include [_Aztec City-State Capitals_](http://www.upf.com/book.asp?id=SMITHS08), Florida, 2008; [_The Comparative Archaeology of Complex Societies_](http://www.cambridge.org/us/academic/subjects/archaeology/prehistory/comparative-archaeology-complex-societies), Cambridge, 2011; and [_At Home with the Aztecs_](https://www.routledge.com/products/9781138100749), London, 2016 (to be published this May)."
+        links:
+            Blog: https://publishingarchaeology.blogspot.com
+            Academia.edu: https://asu.academia.edu/MichaelESmith
+            Twitter: https://twitter.com/MichaelESmith
+
+# !! You don't need to change any of the configuration flags below !!
+#
+
+#markdown: redcarpet
+#highlighter: pygments
+permalink: /:title/
